@@ -7,7 +7,7 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="WELCOME TO CLOUD7 CHANNEL",C-19 Latest Info Entire World
-https://api.mbed.cc/ytlive.m3u8?id=NMre6IAAAiU
+https://tinyurl.com/mvazwypc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="WELCOME TO CLOUD7 CHANNEL",- Last Update: xx,xx,2022
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -75,11 +75,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="ENTERTAINMENT", Awesome TV
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="ENTERTAINMENT", Awesome TV[12k]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-#https://tinyurl.com/j6x9pj77
-http://w.nasvpn.xyz:8080/saya/saya/7856
+https://tinyurl.com/5bs9htt9
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS Sarawak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,21 +86,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-https://linears-playback.astro.com.my/vsg/21eLkgP36x8RIl-o8RwyjYXpZqO-Q_4-k4FKgMyN7N3gQ=zfAW/dash-wv/jitp-linearwm/1004/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/158347?play_token=jHmYl8WHPK
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT[12k]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://wanicelife.com:8880/SWFAF1231293/XTGE495U/1705
+https://tinyurl.com/4wb5jv8j
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT[test]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://w.nasvpn.xyz:8080/saya/saya/11
+https://tinyurl.com/2p94fcn6
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT[cularu]
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://tinyurl.com/2n7nve7k
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -126,36 +123,35 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://tinyurl.com/5cs7ev8e
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ENTERTAINMENT" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-https://linears-playback.astro.com.my/vsg/21tzeHNGQ6HyNXlWQYEfIYTlZTQNDO-xwF8M2SmSUQNjo=S-4k/dash-wv/jitp-linearwm/2402/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/157492?play_token=jHmYl8WHPK
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT[12k]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://w.nasvpn.xyz:8080/saya/saya/7807
+https://tinyurl.com/2p87unux
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT[test] 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://wanicelife.com:8880/SWFAF1231293/XTGE495U/1706
+https://tinyurl.com/2p8xv5aa
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="ENTERTAINMENT" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra Multi sub
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT[cularu] 
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://tinyurl.com/2p84vdkx
+
+#EXTINF:-1 tvg-id="AstroCitra" group-title="ENTERTAINMENT" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-https://linears-playback.astro.com.my/vsg/21Tw6cy2tIbhC8iZ-SQWN0w6HbjpoZGVv549-mGCWBEms=vpRa/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21MqlNHEKY-yXfZHShMtCNzD2AJhMi_PEn7Xd8MeH61GM=mHqt/dash-wv/jitp-linearwm/2700/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT[12k]
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://tinyurl.com/2p8zyx8r
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://w.nasvpn.xyz:8080/saya/saya/172
 
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://wanicelife.com:8880/SWFAF1231293/XTGE495U/71146
 
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT[test]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/vs3arsbx
 
@@ -352,13 +348,14 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 # https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astrox Vinmeen Multi sub
+#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astrox Vinmeen 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/21fHlY5AF-8TJDHjcQH2pk4mm1C7fkh-4upeQgibR0wyo=ie9q/dash-wv/jitp-linearwm/2105/default_ott.mpd
+#https://linears-playback.astro.com.my/vsg/21fHlY5AF-8TJDHjcQH2pk4mm1C7fkh-4upeQgibR0wyo=ie9q/dash-wv/jitp-linearwm/2105/default_ott.mpd
+https://tinyurl.com/4wb5jv8j
 
-#EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="Astro Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="INDIAN",Astrox Vinmeen 
+#EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="Astro Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="INDIAN",Astrox Vinmeen ALT 
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1317,9 +1314,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tiny.pop.gb" tvg-name="Tiny POP" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png" group-title="FAMILY_KIDS",Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/1/13/1200px-Universal_Kids_2019_Logo.png/revision/latest?cb=20190627191351" group-title="FAMILY_KIDS", Universal Kids 
-http://urtv.cc:80/penang189/penang189/7205
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZmhhv7/images.png" group-title="FAMILY_KIDS", Lego
 https://legochannel-roku.amagi.tv/playlist404-p.m3u8
