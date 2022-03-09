@@ -75,13 +75,13 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="ENTERTAINMENT", Awesome TV[oz]
-#EXTVLCOPT:http-referrer=http://www.astro.com.my 
-https://tinyurl.com/4x98d8s8
-
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="ENTERTAINMENT", Awesome TV ALT[12]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
 https://tinyurl.com/5bs9htt9
+
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="ENTERTAINMENT", Awesome TV[oz]
+#EXTVLCOPT:http-referrer=http://www.astro.com.my 
+https://tinyurl.com/4x98d8s8
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS Sarawak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -89,25 +89,21 @@ https://tinyurl.com/5bs9htt9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria[oz]
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria[cula]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://tinyurl.com/bdd6ncba
+https://tinyurl.com/2n7nve7k
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT[12]
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://tinyurl.com/56yuwxbd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ALT[oz]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/47ef5b4z
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ALT[oz]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1705
-
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT[12]
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://tinyurl.com/4wb5jv8j
-
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT[cula]
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://tinyurl.com/2n7nve7k
+https://tinyurl.com/bdd6ncba
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -130,7 +126,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 https://tinyurl.com/5cs7ev8e
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="ENTERTAINMENT" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna[oz]
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna[12]
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://tinyurl.com/mupd5wyp
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="ENTERTAINMENT" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT[oz]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/2s3cksd7
 
@@ -142,19 +142,15 @@ https://tinyurl.com/y7jr5mh4
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/cdddk2p3
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1706
-
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT[cula] 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/2p84vdkx
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna  ALT[12]
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra[12]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://tinyurl.com/2p87unux
+https://tinyurl.com/2p9hfazb
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="ENTERTAINMENT" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra[oz] 
+#EXTINF:-1 tvg-id="AstroCitra" group-title="ENTERTAINMENT" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT[oz] 
 https://tinyurl.com/mv4sd4t8
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="ENTERTAINMENT" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT[oz] 
@@ -162,13 +158,9 @@ https://tinyurl.com/bddmddvj
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71146
+http://much02.cularu.com:8880/streaming/clients_live.php?extension=ts&username=dyw12m3n4983&password=x2V52z9P7K&stream=71146
 
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT[12k]
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://tinyurl.com/2p8zyx8r
-
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT[test]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/vs3arsbx
 
@@ -398,13 +390,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="333" group-title="INDIAN" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/49550?play_token=jHmYl8WHPK
+http://live.flixhub.net/hls/colorscineplex.m3u8
 
 #EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="INDIAN",Box office Bollywood
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBxX1Xn/Zeecinemahd2011.png" group-title="INDIAN", Zee Cinema 
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/165053?play_token=jHmYl8WHPK
+http://live.flixhub.net/hls/zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-id="mn+.in" tvg-name="" tvg-logo="https://i.ibb.co/d5N5ttd/Max-HD.png" group-title="INDIAN",Sony Max 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -419,13 +411,10 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Utsav Gold" tvg-name="Utsav Gold" tvg-logo="https://i.ibb.co/ngntF9d/Star-Gold-2011.png" group-title="INDIAN",Utsav Gold
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/82623?play_token=jHmYl8WHPK
+http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Utsav Plus" tvg-name="Utsav Plus" tvg-logo="https://i.ibb.co/DG5Q3vk/Star-plus-2016.png" group-title="INDIAN",Utsav Plus
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/60347?play_token=jHmYl8WHPK
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="INDIAN", Utsav Bharat
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/16614?play_token=jHmYl8WHPK
+http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ae3120ac55315813212677bbb2ce8b10&key=dfb51c7a6e066fe0aa1da05ab2ae1a9d
@@ -517,7 +506,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",Astrox AEC Multi sub
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-https://linears-playback.astro.com.my/vsg/21ZM6u9xCrFvQk29_Lzjo3AgaHiwWBkdNn13rXBjtiRJE=_KtJ/dash-wv/jitp-linearwm/2400/default_ott.mpd
+#https://linears-playback.astro.com.my/vsg/21ZM6u9xCrFvQk29_Lzjo3AgaHiwWBkdNn13rXBjtiRJE=_KtJ/dash-wv/jitp-linearwm/2400/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2019dd03e75adfc2f58ec94eff26d810&key=79dc64991db24e051b3cb7b39e59e8c3
@@ -893,26 +882,24 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="IN069:Star Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="MOVIES",Star Movies
-https://tinyurl.com/4umcys65
+#https://tinyurl.com/4umcys65
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1896
-
+http://live.flixhub.net/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="MOVIES" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
 https://tinyurl.com/5yuck29y
 
 #EXTINF:-1 tvg-id="SonyPix" group-title="MOVIES" tvg-logo="https://i.ibb.co/TcLpjwD/logo.png",Sony Pix
-https://tinyurl.com/bdrb29u9
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/49539?play_token=jHmYl8WHPK
+#https://tinyurl.com/bdrb29u9
+http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1 tvg-id="&Flix" group-title="MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://tinyurl.com/4pzwwxpm
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/45506?play_token=jHmYl8WHPK
 
 #EXTINF:-1 tvg-id="&Prive" group-title="MOVIES" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://tinyurl.com/5n8ejkpt
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/49557?play_token=jHmYl8WHPK
 
 #EXTINF:-1 tvg-id="&Flix" group-title="MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
 http://live.flixhub.net/hls/movies-now.m3u8
@@ -1554,7 +1541,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="SPORTS",Astrox Arena 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1[oz]
 https://tinyurl.com/2p9b4kx6
 
 #EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT
@@ -1562,9 +1549,9 @@ https://tinyurl.com/2p9b4kx6
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://203.154.243.89:21201/nakhon
 
-#EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT
+#EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT[12]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/146068?play_token=jHmYl8WHPK
+https://tinyurl.com/n4ffw5cj
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 
 https://tinyurl.com/43t2zt8a
@@ -1576,9 +1563,9 @@ https://tinyurl.com/43t2zt8a
 #http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59219.m3u8
 http://203.154.243.89:21202/nakhon
 
-#EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT
+#EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT[12]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/157556?play_token=jHmYl8WHPK
+https://tinyurl.com/2p89vb8d
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 
 https://tinyurl.com/2p93vbv3
@@ -1590,9 +1577,9 @@ https://tinyurl.com/2p93vbv3
 #http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59218.m3u8
 http://203.154.243.89:21203/nakhon
 
-#EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT
+#EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT[12]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/157557?play_token=jHmYl8WHPK
+https://tinyurl.com/v7vrjmf9
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astrox SuperSport 4 
 https://tinyurl.com/49bsnhnx
@@ -1604,9 +1591,9 @@ https://tinyurl.com/49bsnhnx
 #http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
 http://203.154.243.89:21204/nakhon
 
-#EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT
+#EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT[12]
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/157558?play_token=jHmYl8WHPK
+https://tinyurl.com/3c85kvbe
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
@@ -1839,51 +1826,6 @@ https://liv11octptsp.stblauncher.com/live/4272_.m3u8?token=bcc65a1fb3974adeaa616
 
 #EXTINF:-1 group-title="SPORTS",Sport tv 3
 https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO DIGI SPORT 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="SPORTS",Digi Sport 1
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/273534
-
-#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO DIGI SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="SPORTS",Digi Sport 2
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/81580
-
-#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO DIGI SPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" group-title="SPORTS",Digi Sport 3
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/273529
-
-#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO DIGI SPORT 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" group-title="SPORTS",Digi Sport 4
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/273530
-
-#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="FR RMC SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="SPORTS",RMC Sport 1
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/279116
-
-#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR RMC SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="SPORTS",RMC Sport 2
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/37158
-
-#EXTINF:-1 tvg-id="" tvg-name="FR RMC SPORT 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="SPORTS",RMC Sport 3
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/282827
-
-#EXTINF:-1 tvg-id="" tvg-name="FR RMC SPORT 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="SPORTS",RMC Sport 4
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/279844
-
-#EXTINF:-1 tvg-id="teleclubsport1.ch" tvg-name="CH Blue Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1e3a6ebd017afb3fc7373b14067d6c51.png" group-title="SPORTS",Blue Sport 1
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/290625
-
-#EXTINF:-1 tvg-id="" tvg-name="CH Blue Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/100d55fd9acdc34aeb54e4df82f87b1a.png" group-title="SPORTS",Blue Sport 2 
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/290624
-
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK BT Sport 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="SPORTS",BT Sport 1 
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/28340
-
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK BT Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="SPORTS",BT Sport 2 
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/28344
-
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK BT Sport 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="SPORTS",BT Sport 3 
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/28348
-
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SPORTS",Sky Sport Formula One
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/37177
-
-#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Premier League FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="SPORTS",Sky Sport Premier League 
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/273424
 
 #EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8   
