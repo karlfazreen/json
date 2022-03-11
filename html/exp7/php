@@ -826,7 +826,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-id="713" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="MOVIES 🎥",Paramount Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CinemaWorldHD" group-title="MOVIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld (ID)
+#EXTINF:-1 tvg-id="CinemaWorldHD" group-title="MOVIES 🎥" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
@@ -919,7 +919,7 @@ http://210.210.129.106/uq2663/h/h193/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="MOVIES",Galaxy
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="MOVIES 🎥",Galaxy
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -933,7 +933,7 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?sourc
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="MOVIES 🎥",Rakuten TV
 https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
+#EXTINF:-1 group-title="MOVIES 🎥" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
 
@@ -1179,10 +1179,10 @@ http://iptv.prosto.tv:7000/ch85/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7bJfM5w/good-time-cookies-logo-BECAD41-A66-seeklogo-com.png" group-title="DOCUMENTARY 🦧", Goodtime
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQD6c8t/1200px-VIASAT-official-png.png" group-title="DOCUMENTARY", Viasat Nature
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQD6c8t/1200px-VIASAT-official-png.png" group-title="DOCUMENTARY 🦧", Viasat Nature
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WcNZGCM/png-transparent-computer-icons-natural-environment-nature-natural-resource-coral-collection-leaf-han.png" group-title="DOCUMENTARY", Naturescape
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcNZGCM/png-transparent-computer-icons-natural-environment-nature-natural-resource-coral-collection-leaf-han.png" group-title="DOCUMENTARY 🦧", Naturescape
 https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCjk1hc/natural-planet-logo.png" group-title="DOCUMENTARY 🦧", Nature Live
@@ -1309,7 +1309,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" group-title="FAMILY_KIDS 👨‍👩‍👧‍👦", Rick and Morty TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2021/05/27151240/AB_RELOADED_202105_780x800_CharactersAndLogo-1.png" group-title="FAMILY_KIDS", Angry Bird
+#EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2021/05/27151240/AB_RELOADED_202105_780x800_CharactersAndLogo-1.png" group-title="FAMILY_KIDS 👨‍👩‍👧‍👦", Angry Bird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 
 #EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="FAMILY_KIDS 👨‍👩‍👧‍👦",AT-X
@@ -1689,7 +1689,7 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49686
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
-#EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-title="SPORTS",Eurosport
+#EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-title="SPORTS ⚽",Eurosport
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1702,7 +1702,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/f17WN26/png-clipart-mnc-sports-mnc-vision-soccer-channel-mnc-play-media-nusantara-citra-others-text-trademar.png",Soccer Channel
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.ibb.co/f17WN26/png-clipart-mnc-sports-mnc-vision-soccer-channel-mnc-play-media-nusantara-citra-others-text-trademar.png",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SPORTS ⚽",TVRI Sport
@@ -2029,7 +2029,7 @@ http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" group-title="RADIO 📻", Klasik Nasional FM
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioperakfm.jpg" group-title="RADIO", Perak FM
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioperakfm.jpg" group-title="RADIO 📻", Perak FM
 https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="1855" tvg-logo="https://i.kampung.xyz/c/71bfbf6a77da8b7b.png" group-title="RADIO 📻",Mix FM
@@ -2141,7 +2141,7 @@ http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA 🇨🇳",博斯运动2
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
   
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA"",智林体育台
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA 🇨🇳",智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA 🇨🇳",中台湾生活网
