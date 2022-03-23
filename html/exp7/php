@@ -1581,7 +1581,7 @@ http://203.154.243.89:21202/nakhon
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YemtUa3FJLWZHeG1tUUliNDU0dzctZXdKaGNXWUQ4YTJHaWJYb1BBY3JtaXVGd0hqY2dsQWJKeGYzQ0c1TWoxZWFwMjVBSmNaR25NYTF6TnVSUFBBOFNPa0ZxbFhIUU83Z1JzbTVUVnVPalVDazVDZkZPRnROMExaUUliQkw5eHpWYkFSbktuWUowR1p0YmVIdEM3UmFFZUViWWgzOVQ0UkpkQmtXRzM3UFhyM3c1aWdJZTBtbktnUEpuVUR6QmwtSmoxV1BEeGxRTVp4REpFNmVGVlJvUXhrc21sYk1VdG1ib0JKQ1pTLTduUXpsb0dDMkEyTE5NaFJ1aklqUmU5ZEUyTno1ZmJWcVJVckhsY0V3cENXMXlNd29Ra1FNdGxsRTZlWWlsYWpfN1NScUotMnQzWm9ob1RYV1o3SXM4WXdsZTgtMU5OQzlKSTNTQlRaamVYOG96X0FLOTI3cllGU3BFQzZyUVBqUHo5ejJjd3JlWnU1elAxOW5MdjdPU2lWazNMZGQ0TGpzNWxZZkk3NDhWajc4VmFCSEp1NkNQOHZzNUU5eFdUM0c0TDBMRW1zTFdjUnhpaHhDbFQ4RW1RSXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMDIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMGQ2ZDJhMWFfYzhkMV80ZTE5X2IxNzRfNTU2NTA3NzBjZDk5IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHprVGtxSS1mR3htbVFJYjQ1NHc3LWV3SmhjV1lEOGEyR2liWG9QQWNybWl1RndIamNnbEFiSnhmM0NHNU1qMWVhcDI1QUpjWkduTWExek51UlBQQThTT2tGcWxYSFFPN2dSc201VFZ1T2pVQ2s1Q2ZGT0Z0TjBMWlFJYkJMOXh6VmJBUm5LbllKMEdadGJlSHRDN1JhRWVFYlloMzlUNFJKZEJrV0czN1BYcjN3NWlnSWUwbW5LZ1BKblVEekJsLUpqMVdQRHhsUU1aeERKRTZlRlZSb1F4a3NtbGJNVXRtYm9CSkNaUy03blF6bG9HQzJBMkxOTWhSdWpJalJlOWRFMk56NWZiVnFSVXJIbGNFd3BDVzF5TXdvUWtRTXRsbEU2ZVlpbGFqXzdTUnFKLTJ0M1pvaG9UWFdaN0lzOFl3bGU4LTFOTkM5SkkzU0JUWmplWDhvel9BSzkyN3JZRlNwRUM2clFQalB6OXoyY3dyZVp1NXpQMTluTHY3T1NpVmszTGRkNExqczVsWWZJNzQ4Vmo3OFZhQkhKdTZDUDh2czVFOXhXVDNHNEwwTEVtc0xXY1J4aWh4Q2xUOEVtUUl3PSIsInVkaWQiOiIwYzZlYjg2Yy0wMGNmLTQzMTEtYmIwZS1kZTFmZjIxODRlN2VfV0VCLTVhMGE5ZGE3LWVmNjQtYWFkYy1jOTM1LThlMjA0ODVhMzY0OCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=Ry%2fOZ2oFpNbE3cK2tio%2fcQUz440%3d&sessionId=e5659869-2591-9932-e677-4d005a587571:ba10f751-a028-f0cc-ca15-0f62373edbfc&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L3BsLS1hcnNlbmFsLXZzLWxlaWNlc3Rlci1jaXR5LzEwOTQ0OTgvcGxheWVyP2xpbmVhcklkPTEwMDEzNjEyNSZpc0xpdmU9dHJ1ZQ==
-#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="⚽ SPORTS",Ass-tro SuperSport 3 HD
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="⚽ SPORTS",Ass-tro SuperSport 3 
 https://linear01-playback.sooka.my/CH5/masterCH5.mpd
 https://tinyurl.com/2p93vbv3
 
@@ -1645,10 +1645,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.3visiondistribution.com/uploads/images/Motorvision_story_TV_dark_landscape_whitetypo_copy.png" group-title="⚽ SPORTS",Motor Vision
 http://210.210.129.106/uq2663/h/h09/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDzMhMB/skysports-ssf1-sky-2021-5261156.png" group-title="⚽ SPORTS",Skysports Formula One
-http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/2876
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="⚽ SPORTS"",Sky Sports Main Event
+https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8|X-Forwarded-For=111.65.47.180
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDzMhMB/skysports-ssf1-sky-2021-5261156.png" group-title="⚽ SPORTS",Skysports Formula One ALT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="⚽ SPORTS"",Sky Sports Football
+https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8|X-Forwarded-For=111.65.47.180
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="⚽ SPORTS"",Sky Sports Formula One
+https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8|X-Forwarded-For=111.65.47.180
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="⚽ SPORTS",Skysports Formula One ALT
 http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1886,11 +1892,66 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="http://live.flixhub.net/img/sonyten3.jpg" group-title="⚽ SPORTS",Sony Ten 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png" group-title="⚽ SPORTS",Flow Sports 1
+http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpLhy8IQ_613966bf6fda5.png" group-title="⚽ SPORTS",OnSports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=299ed9f9dadf4ce3a870434e5ac55078&key=f3ff28538d62fd6dc6a1e9d83f0f6153
+http://s129135.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpLhy8IQ_613966bf6fda5.png" group-title="⚽ SPORTS",ONSports+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ff9e2bda69744012bd5b7d7ebaec30e2&key=b67d78d357514595627ed63390031fde
+http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv311&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpLhy8IQ_613966bf6fda5.png" group-title="⚽ SPORTS",OnFootball
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=299ed9f9dadf4ce3a870434e5ac55078&key=f3ff28538d62fd6dc6a1e9d83f0f6153
+http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/php5E6gAp_61533564a1d67.png" group-title="⚽ SPORTS",K+SPORT1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=71ba22044fae4e83afff62f38fd77cb3&key=1c97354db34d0ef7cacddebf4ad8a337
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpAXdpHm_615335bd4e5b4.png" group-title="⚽ SPORTS",K+SPORT2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=df5011eaea8f41e4a25aea31f164b73a&key=ac2769d42ee1f54ecc649e9e1bc08f12
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cwNQ4S5/image.jpg" group-title="⚽ SPORTS",Sportsmax 1
+http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cwNQ4S5/image.jpg" group-title="⚽ SPORTS",Sportsmax 2
+http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://discoverflow.ky/sites/discoverflow.co.anguilla/files/Rush_0.png" group-title="⚽ SPORTS",Rush
+http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.hk" tvg-logo="http://live.flixhub.net/img/Star_Sports_Select_1_HD.jpg" tvg-id="" tvg-name="" group-title="⚽ SPORTS",Star Sport Select 1 
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.hk" tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="" group-title="⚽ SPORTS",Star Sport Select 2
 http://live.flixhub.net/hls/select2.m3u8
+
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport 1
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BTSPORTS1/index.m3u8|X-Forwarded-For=111.65.47.180
+
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport 2
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8|X-Forwarded-For=111.65.47.180
+
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport 3
+https://16live00.akamaized.net/BTSPORTS3/index.m3u8|X-Forwarded-For=111.65.47.180
+
+#EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport ESPN
+https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8|X-Forwarded-For=111.65.47.180
 
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-logo="https://static.wixstatic.com/media/0e2b3e_353a02b12dea4fdeb128d63b82f31938~mv2.png" group-title="⚽ SPORTS",Digi Sport 1
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33798
