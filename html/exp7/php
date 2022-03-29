@@ -1820,9 +1820,6 @@ http://begaltvku.site/vidprem/master-8.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-4-id.png" group-title="⚽ SPORTS", Champions TV 4
 https://artunnel57.com/1koshv9a4qas0wc0s0
 
-#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-4-id.png" group-title="Sport",ChampionTv4
-https://artunnel57.com/1koshv9a4qas0wc0s0
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://i.ibb.co/n38P05N/MNCSports-tegak.png" group-title="⚽ SPORTS",MNC Sport 1
