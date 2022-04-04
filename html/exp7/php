@@ -95,8 +95,7 @@ http://wanicelife.com:8880/EFLW122114/70NF2GH1/1705
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
-#https://tinyurl.com/56yuwxbd
+https://tinyurl.com/56yuwxbd
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -143,7 +142,7 @@ http://wanicelife.com:8880/EFLW122114/70NF2GH1/71146
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019611
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71146
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
 https://link.zozotv.xyz:443/dayah/dayah/36
@@ -703,6 +702,9 @@ http://210.210.129.106/dr9445/h/h16/01.m3u8
 #http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
 http://210.210.129.106/dr9445/h/h15/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="🎲 ENTERTAINMENT",People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="colorsInfinity.in" tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="🎲 ENTERTAINMENT",Colors Infinity
 #http://103.131.212.138:8000/play/a01c/index.m3u8
 
@@ -1251,9 +1253,11 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #EXTINF:-1 tvg-id="612" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Ta-daa!
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Oddbods" tvg-logo="https://i.ibb.co/0j7c5WX/dreamworks-animation-logo-png-transparent.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Dreamworks
-#https://tinyurl.com/y3e9wauh
-https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="NICK TOTALLY TURTLES" tvg-logo="https://i.ibb.co/LpzDYR5/large-125783-ufrfla3cqxzase0mme6hh0jdw.jpg"  group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Nick Totally Turtle
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+
+#EXTINF:-1 tvg-id="NICK JR DORA TV" tvg-logo="https://i.ibb.co/QMx7GPR/Dora-the-Explorer-logo-svg.png"  group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Nick Jr Dora Tv
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 
 #EXTINF:-1 tvg-id="MoonbugKids" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
