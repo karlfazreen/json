@@ -103,7 +103,8 @@ https://link.zozotv.xyz:443/dayah/dayah/340
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://link.zozotv.xyz:443/dayah/dayah/11
+https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
+#https://link.zozotv.xyz:443/dayah/dayah/11
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -918,11 +919,11 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#https://tinyurl.com/4pzwwxpm
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/54975
 
 #EXTINF:-1 tvg-id="&Prive" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tinyurl.com/4s3xsfhm
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/55158
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
 #http://live.flixhub.net/hls/movies-now.m3u8
@@ -1995,16 +1996,24 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 http://live.flixhub.net/hls/select2.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport 1
-https://king.nowtv.vip/live/bt1/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+http://www.mireasa-live.com/cdn/premium31/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport 2
-https://king.nowtv.vip/live/bt2/chunks.m3u8 
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+http://www.mireasa-live.com/cdn/premium32/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport 3
-https://king.nowtv.vip/live/bt3/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+http://www.mireasa-live.com/cdn/premium33/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport ESPN
-https://king.nowtv.vip/live/btespn/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+http://www.mireasa-live.com/cdn/premium34/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-logo="https://static.wixstatic.com/media/0e2b3e_353a02b12dea4fdeb128d63b82f31938~mv2.png" group-title="⚽ SPORTS",Digi Sport 1
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33798
@@ -2040,34 +2049,39 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 #EXTINF:-1 tvg-ID="sporttv.pt" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport+TV+1.png" group-title="⚽ SPORTS",Sport tv 1
-https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/29388
 
 #EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png" group-title="⚽ SPORTS",Sport tv 2
-https://liv11octptsp.stblauncher.com/live/4272_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#https://liv11octptsp.stblauncher.com/live/4272_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/29387
 
 #EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rtwtyq1436898868.png" group-title="⚽ SPORTS",Sport tv 3
-https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/29386
 
 #EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="" tvg-logo="https://i.imgur.com/iq5MRT8.png" group-title="⚽ SPORTS",Sport tv 4
-https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/29385
 
 #EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="" tvg-logo="https://i.imgur.com/GgJrV2p.png" group-title="⚽ SPORTS",Sport tv 5
-https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/49958
 
 #EXTINF:-1 tvg-ID="elevensport.ro" tvg-name="" tvg-logo="https://i.ibb.co/rypm7M5/1200px-Logo-Eleven-Sports-2020.png" group-title="⚽ SPORTS",Eleven 1
-https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/29371
 
 #EXTINF:-1 tvg-ID="elevensport2.ro" tvg-name="" tvg-logo="https://i.ibb.co/rypm7M5/1200px-Logo-Eleven-Sports-2020.png" group-title="⚽ SPORTS",Eleven 2
-https://liv11octptsp.stblauncher.com/live/6644_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/29370
 
 #EXTINF:-1 tvg-ID="elevensport3.ro" tvg-name="" tvg-logo="https://i.ibb.co/rypm7M5/1200px-Logo-Eleven-Sports-2020.png" group-title="⚽ SPORTS",Eleven 3
-https://liv11octptsp.stblauncher.com/live/6645_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/29369
 
 #EXTINF:-1 tvg-ID="elevensport4.ro" tvg-name="" tvg-logo="https://i.imgur.com/TeqAoTS.png" group-title="⚽ SPORTS",Eleven 4
-https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH129368
 
 #EXTINF:-1 tvg-ID="elevensport5.ro" tvg-name="" tvg-logo="https://i.imgur.com/URNcmBu.png" group-title="⚽ SPORTS",Eleven 5
-https://liv11octptsp.stblauncher.com/live/6647_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://wanicelife.com:8880/EFLW122114/70NF2GH1/29334
 
 #EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://i.ibb.co/w4MgwKH/Ssc-sports.png" group-title="⚽ SPORTS",Scc sport 1
 http://localchannels.zinamedia.net:80/ar-s/SSC1/tracks-v1a1/mono.m3u8
