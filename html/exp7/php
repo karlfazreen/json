@@ -14,8 +14,8 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="✯✯CLOUD7 CHANNEL✯✯",C-19 Latest Info Entire World
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🔥CLOUD7 CHANNEL🔥",Feel free to donate
+https://api.mapalus.xyz/yt/download.mp4?src=youtube&id=ocdHrh7kyso
 
 
 
@@ -1566,6 +1566,37 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcDRLK0/349-3495727-teknas-49jx810-123-cm-49-inches-4k-ultra.jpg" group-title="🌀 4K_VIDEO",Africa the lost continent
+https://api.mapalus.xyz/yt/download.mp4?src=youtube&id=V1E90UOzDO8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcDRLK0/349-3495727-teknas-49jx810-123-cm-49-inches-4k-ultra.jpg" group-title="🌀 4K_VIDEO",The beauty of forest
+https://api.mapalus.xyz/yt/download.mp4?src=youtube&id=RzVvThhjAKw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcDRLK0/349-3495727-teknas-49jx810-123-cm-49-inches-4k-ultra.jpg" group-title="🌀 4K_VIDEO",Everyday object in macro
+https://api.mapalus.xyz/yt/download.mp4?src=youtube&id=8AwIJZj07s8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcDRLK0/349-3495727-teknas-49jx810-123-cm-49-inches-4k-ultra.jpg" group-title="🌀 4K_VIDEO",Tour through the planet earth
+https://api.mapalus.xyz/yt/download.mp4?src=youtube&id=QSNa8U1yGrM
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcDRLK0/349-3495727-teknas-49jx810-123-cm-49-inches-4k-ultra.jpg" group-title="🌀 4K_VIDEO",Amazing aerial views of the earth
+https://api.mapalus.xyz/yt/download.mp4?src=youtube&id=ofUOATVjKF0
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+#####################
+
+
+
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="🏖️ RELAXING",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 
@@ -1876,7 +1907,7 @@ http://uload.ru.com/cdn/premium61/chunks.m3u8
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png", beIN Sports English 2  
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://uload.ru.comcdn/premium90/chunks.m3u8
+http://uload.ru.com/cdn/premium90/chunks.m3u8
 #http://vt.vttpi.com:8000/live/P-957977/P-740465/1847.ts
 
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-3-1168.png", beIN Sports English 3   
@@ -1884,21 +1915,6 @@ http://uload.ru.comcdn/premium90/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://uload.ru.com/cdn/premium46/chunks.m3u8
 #http://vt.vttpi.com:8000/live/P-957977/P-740465/1848.ts
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/Sx63Xj8/afc-logo-png-8.png", beIN Sports AFC 1 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/Sx63Xj8/afc-logo-png-8.png", beIN Sports AFC 2 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/Sx63Xj8/afc-logo-png-8.png", beIN Sports AFC 3 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
@@ -1917,14 +1933,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/f17WN26/png-clipart-mnc-sports-mnc-vision-soccer-channel-mnc-play-media-nusantara-citra-others-text-trademar.png",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#EXTINF:-1 tvg-id="StarSportsSelectHD1.hk" tvg-logo="http://live.flixhub.net/img/Star_Sports_Select_1_HD.jpg" tvg-id="" tvg-name="" group-title="⚽ SPORTS",Star Sport Select 1 
-#http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-http://182.50.65.213:8888/udp/239.239.0.6:3001m
-
-#EXTINF:-1 tvg-id="StarSportsSelectHD2.hk" tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="" group-title="⚽ SPORTS",Star Sport Select 2 
-#http://live.flixhub.net/hls/select2.m3u8
-http://182.50.65.213:8888/udp/239.239.0.6:3001
 
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="⚽ SPORTS",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -1988,7 +1996,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-id="unifiSports3" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-http://w.nasvpn.xyz:8080/live/suke/suke/13399.m3u8
+# http://w.nasvpn.xyz:8080/live/suke/suke/13399.m3u8
 
 #EXTINF:-1 tvg-id="unifiSports4" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2259,9 +2267,6 @@ https://uload.ru.com/cdn/premium72/chunks.m3u8|Referer=https://player.licenses4.
 
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/YcHbb2W/1200px-ELEVEN-SPORTS.png",Eleven Sport 4
 https://uload.ru.com/cdn/premium21/chunks.m3u8|Referer=https://player.licenses4.me
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/YcHbb2W/1200px-ELEVEN-SPORTS.png",Eleven Sport Formula One
-https://uload.ru.com/cdn/premium50/chunks.m3u8|Referer=https://player.licenses4.me
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
