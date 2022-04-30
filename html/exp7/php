@@ -134,10 +134,6 @@ http://axcestv.vip:8080/live/freeview/axcestv/645.ts
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://ktiptv.co:443/3057/3057/25855
-
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
 #http://w.nasvpn.xyz:8080/live/suke/suke/13343.m3u8
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
@@ -147,6 +143,10 @@ http://axcestv.vip:8080/live/freeview/axcestv/646.ts
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://axcestv.vip:8080/live/freeview/axcestv/647.ts
+
+#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://ktiptv.co:443/3057/3057/25855
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -164,10 +164,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://axcestv.vip:8080/live/freeview/axcestv/650.ts
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://ktiptv.co:443/3057/3057/25867
-
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 # http://w.nasvpn.xyz:8080/live/suke/suke/13344.m3u8 
@@ -182,18 +178,22 @@ http://axcestv.vip:8080/live/freeview/axcestv/649.ts
 #EXTVLCOPT:http-referrer=https://www.tvmalaysia.online/
 https://tvmalaysia.cyou/hls/warna.m3u8
 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://ktiptv.co:443/3057/3057/25867
+
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://axcestv.vip:8080/live/freeview/axcestv/652.ts
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://axcestv.vip:8080/live/freeview/axcestv/651.ts 
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://ktiptv.co:443/3057/3057/25852
 # http://w.nasvpn.xyz:8080/live/suke/suke/13345.m3u8
-
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/651.ts 
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://i.ibb.co/2K2mTxK/404-300.png",Astrox BOO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -232,50 +232,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="hyppsensasi.my" tvg-name="[MY] Hypp Sensasi HD" tvg-logo="https://pbs.twimg.com/profile_images/983556501141770240/KZq2awDx_400x400.jpg" group-title="🫰 UNIFI TV",Hypp Sensasi HD
-https://ktiptv.co:443/3057/3057/656644
-
-#EXTINF:-1 tvg-id="hyppinspirasi.my" tvg-name="[MY] Hypp Inspirasi HD" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png" group-title="🫰 UNIFI TV", Hypp Inspirasi HD
-https://ktiptv.co:443/3057/3057/656643
-
-#EXTINF:-1 tvg-id="salam.my" tvg-name="[MY] Salam HD" tvg-logo="https://www.unifi-tm.com.my/wp-content/uploads/2018/04/salam.png" group-title="🫰 UNIFI TV", Salam HD
-https://ktiptv.co:443/3057/3057/656642
-
-#EXTINF:-1 tvg-id="pesona.my" tvg-name="[MY] Pesona HD" tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/pesona.png" group-title="🫰 UNIFI TV",Pesona HD
-https://ktiptv.co:443/3057/3057/656641
-
-#EXTINF:-1 tvg-id="dunia.sinema.my" tvg-name="[MY] Dunia Sinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png" group-title="🫰 UNIFI TV", Dunia Sinema
-https://ktiptv.co:443/3057/3057/656639
-
-#EXTINF:-1 tvg-id="unifi.sports.1.my" tvg-name="[MY] Unifi Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="🫰 UNIFI TV",Unifi Sport 1
-https://ktiptv.co:443/3057/3057/656634
-
-#EXTINF:-1 tvg-id="unifi.sports.2.my" tvg-name="[MY] Unifi Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="🫰 UNIFI TV", Unifi Sport 2
-https://ktiptv.co:443/3057/3057/656635
-
-#EXTINF:-1 tvg-id="unifi.sports.3.my" tvg-name="[MY] Unifi Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="🫰 UNIFI TV",Unifi Sport 3
-https://ktiptv.co:443/3057/3057/656636
-
-#EXTINF:-1 tvg-id="unifi.sports.4.my" tvg-name="[MY] Unifi Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="🫰 UNIFI TV",Unifi Sport 4
-https://ktiptv.co:443/3057/3057/656637
-
-#EXTINF:-1 tvg-id="unifi.sports.5.my" tvg-name="[MY] Unifi Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="🫰 UNIFI TV", Unifi Sport 5
-https://ktiptv.co:443/3057/3057/656638
-
-
-
-
-
-
-
-#######################################################################################################################################################################
-
-##############################
 
 
 
@@ -414,15 +370,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 # https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="Astro Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="🇮🇳 INDIA",Astrox Vinmeen
-https://ktiptv.co:443/3057/3057/25943
+http://axcestv.vip:8080/live/freeview/axcestv/779.ts
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astrox Vinmeen ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
 #https://linears-playback.astro.com.my/vsg/21fHlY5AF-8TJDHjcQH2pk4mm1C7fkh-4upeQgibR0wyo=ie9q/dash-wv/jitp-linearwm/2105/default_ott.mpd
-#http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-http://axcestv.vip:8080/live/freeview/axcestv/779.ts
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Astrox Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
