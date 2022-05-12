@@ -134,11 +134,15 @@ http://axcestv.vip:8080/live/freeview/axcestv/645.ts
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-#http://w.nasvpn.xyz:8080/live/suke/suke/13343.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/646.ts
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/646.ts
+http://syok.tv:2082/fred/fred/18
+
+#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://syok.tv:2082/fred/fred/19
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -170,6 +174,14 @@ http://axcestv.vip:8080/live/freeview/axcestv/648.ts
 http://axcestv.vip:8080/live/freeview/axcestv/649.ts
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://syok.tv:2082/fred/fred/23
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://syok.tv:2082/fred/fred/22
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-user-agent=ipad
 #EXTVLCOPT:http-referrer=https://www.tvmalaysia.online/
 https://tvmalaysia.cyou/hls/warna.m3u8
@@ -184,7 +196,7 @@ http://axcestv.vip:8080/live/freeview/axcestv/651.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-# http://w.nasvpn.xyz:8080/live/suke/suke/13345.m3u8
+http://syok.tv:2082/fred/fred/26
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://i.ibb.co/2K2mTxK/404-300.png",Astrox BOO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1943,7 +1955,8 @@ http://203.154.243.89:21201/nakhon
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="⚽ SPORTS",Astrox Supersport 1 ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-http://elemento.x10.mx/stream/assp1.mpd
+#http://elemento.x10.mx/stream/assp1.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/787.ts 
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -1958,7 +1971,8 @@ http://203.154.243.89:21202/nakhon
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="⚽ SPORTS",Astrox Supersport 2 ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-http://elemento.x10.mx/stream/assp2.mpd
+#http://elemento.x10.mx/stream/assp2.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/789.ts
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 3 
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -1973,7 +1987,8 @@ http://203.154.243.89:21203/nakhon
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="⚽ SPORTS",Astrox SuperSport 3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-http://elemento.x10.mx/stream/assp3.mpd
+#http://elemento.x10.mx/stream/assp3.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/790.ts
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 4
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -1988,7 +2003,8 @@ http://203.154.243.89:21204/nakhon
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="⚽ SPORTS",Astrox Supersport 4 ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-http://elemento.x10.mx/stream/assp4.mpd
+#http://elemento.x10.mx/stream/assp4.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/791.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
@@ -2822,7 +2838,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 #EXTINF:-1 group-title="📻 RADIO" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
 https://astro1.rastream.com/hitz
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ (YouTube Live)
+#EXTINF:-1 group-title="📻 RADIO" tvg-id="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 
 #EXTINF:-1 group-title="📻 RADIO" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
@@ -2918,7 +2934,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Zayan.m3u8
 #EXTINF:-1 group-title="📻 RADIO" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.astradamy.com/logos/GoXuan2022.png",GOXUAN
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/GoXuan.m3u8
 
-#EXTINF:-1 tvg-id="CHN" ch-number="878" group-title="📻 RADIO tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",Astro Awani Radio
+#EXTINF:-1 tvg-id="CHN" ch-number="878" group-title="📻 RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",Astro Awani Radio
 https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="📻 RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA Sabah
