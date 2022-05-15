@@ -45,6 +45,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" ch-number="103" tvg-id="TV3" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 
+#EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://live.astradamy.com/tv3/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
@@ -53,7 +54,6 @@ https://live.astradamy.com/tv3/index.m3u8
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
@@ -127,24 +127,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="🇲🇾 MALAYSIA",Astrox Ria
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/645.ts
+http://axcestv.vip:8080/freeview/axcestv/453
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/646.ts
-
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://syok.tv:2082/fred/fred/18
-
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://syok.tv:2082/fred/fred/19
-
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/647.ts
+http://axcestv.vip:8080/freeview/axcestv/454
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -159,37 +145,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna 
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/650.ts
+http://axcestv.vip:8080/freeview/axcestv/455
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-# http://w.nasvpn.xyz:8080/live/suke/suke/13344.m3u8 
-http://axcestv.vip:8080/live/freeview/axcestv/648.ts
+http://axcestv.vip:8080/freeview/axcestv/456
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/649.ts
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://syok.tv:2082/fred/fred/23
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://syok.tv:2082/fred/fred/22
+http://axcestv.vip:8080/freeview/axcestv/457
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra 
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/652.ts
+http://axcestv.vip:8080/freeview/axcestv/458
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/651.ts 
-
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://syok.tv:2082/fred/fred/26
+http://axcestv.vip:8080/freeview/axcestv/459
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://i.ibb.co/2K2mTxK/404-300.png",Astrox BOO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -244,7 +212,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🇮🇩 INDONESIA",Bioskop Indonesia
-http://axcestv.vip:8080/live/freeview/axcestv/716.ts
+http://axcestv.vip:8080/freeview/axcestv/504
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -369,7 +337,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 # https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="Astro Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="🇮🇳 INDIA",Astrox Vinmeen
-http://axcestv.vip:8080/live/freeview/axcestv/779.ts
+http://axcestv.vip:8080/freeview/axcestv/586
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astrox Vinmeen ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -678,7 +646,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="🇲🇾 CHINESE",Astrox AEC
-http://axcestv.vip:8080/live/freeview/axcestv/676.ts
+http://axcestv.vip:8080/freeview/axcestv/481
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="🇲🇾 CHINESE",Astrox AEC ⁽ᴮᵃᶜᵏᵘᵖ⁾
 https://ktiptv.co:443/3057/3057/25968
@@ -1183,10 +1151,10 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="IN069:Star Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="🎥 MOVIES",Star Movies
-http://axcestv.vip:8080/live/freeview/axcestv/704.ts
+http://axcestv.vip:8080/freeview/axcestv/512
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
-http://axcestv.vip:8080/live/freeview/axcestv/705.ts
+http://axcestv.vip:8080/freeview/axcestv/513
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1196,12 +1164,10 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://axcestv.vip:8080/live/freeview/axcestv/702.ts
+http://axcestv.vip:8080/freeview/axcestv/510
 
 #EXTINF:-1 tvg-id="&Prive" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://axcestv.vip:8080/live/freeview/axcestv/703.ts
+http://axcestv.vip:8080/freeview/axcestv/511
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
 #http://103.55.144.46/hls/movies-now.m3u8
@@ -1211,16 +1177,16 @@ http://axcestv.vip:8080/live/freeview/axcestv/703.ts
 #http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/169118?play_token=jHmYl8WHPK
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
-http://103.55.144.46/hls/mnx-hd.m3u8
+http://axcestv.vip:8080/freeview/axcestv/515
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema
-http://axcestv.vip:8080/live/freeview/axcestv/699.ts
+http://axcestv.vip:8080/freeview/axcestv/507
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Asia
-http://axcestv.vip:8080/live/freeview/axcestv/700.ts
+http://axcestv.vip:8080/freeview/axcestv/508
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Family
-http://axcestv.vip:8080/live/freeview/axcestv/701.ts
+http://axcestv.vip:8080/freeview/axcestv/509
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1505,7 +1471,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png", Aniplus
-http://axcestv.vip:8080/live/freeview/axcestv/741.ts
+http://axcestv.vip:8080/freeview/axcestv/549
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax" tvg-logo="" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",ConTV Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8
@@ -1545,7 +1511,7 @@ https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Dreamworks
-http://axcestv.vip:8080/live/freeview/axcestv/761.ts
+http://axcestv.vip:8080/freeview/axcestv/568
 
 #EXTINF:-1 tvg-id="NICK TOTALLY TURTLES" tvg-logo="https://i.ibb.co/LpzDYR5/large-125783-ufrfla3cqxzase0mme6hh0jdw.jpg"  group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Nick Totally Turtle
 https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
@@ -1809,44 +1775,50 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First-聽Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First-聽Jaga-Jaga Senario union
-http://axcestv.vip:8080/live/freeview/axcestv/989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First-The Disappearance of Irdina Adhwa
+http://axcestv.vip:8080/freeview/axcestv/487
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Gila Gusti
-http://axcestv.vip:8080/live/freeview/axcestv/981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Jaga-Jaga Senariounion
+http://axcestv.vip:8080/freeview/axcestv/486
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Renjana
-http://axcestv.vip:8080/live/freeview/axcestv/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Gila Gusti
+http://axcestv.vip:8080/freeview/axcestv/488
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Autumn In Wales
-http://axcestv.vip:8080/live/freeview/axcestv/979.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Autumn In Wales
+http://axcestv.vip:8080/freeview/axcestv/489
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Kedai Antik Wak Jambi" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First - Kedai Antik Wak Jambi
-http://axcestv.vip:8080/live/freeview/axcestv/980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Renjana
+http://axcestv.vip:8080/freeview/axcestv/490
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Kg Pisang Berbuah Dua Kali
-http://axcestv.vip:8080/live/freeview/axcestv/684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kabus" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Kabus
+http://axcestv.vip:8080/freeview/axcestv/491
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Hantu Kuat Ketawa
-http://axcestv.vip:8080/live/freeview/axcestv/685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kedai Antik Wak Jambi" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRSTT",Astro First- Kedai Antik Wak Jambi
+http://axcestv.vip:8080/freeview/axcestv/492
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Hantu Mok Joh
-http://axcestv.vip:8080/live/freeview/axcestv/686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Kg Pisang Berbuah Dua Kali
+http://axcestv.vip:8080/freeview/axcestv/493
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Marabahaya Underground
-http://axcestv.vip:8080/live/freeview/axcestv/687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Hantu Kuat Ketawa
+http://axcestv.vip:8080/freeview/axcestv/494
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Serangan Pocong
-http://axcestv.vip:8080/live/freeview/axcestv/688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Hantu Mok Joh
+http://axcestv.vip:8080/freeview/axcestv/495
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First - Siapa Tutup Lampu?
-http://axcestv.vip:8080/live/freeview/axcestv/689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Marabahaya Underground
+http://axcestv.vip:8080/freeview/axcestv/496
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First - Hantu Ke Lima
-http://axcestv.vip:8080/live/freeview/axcestv/690.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First- Serangan Pocong
+http://axcestv.vip:8080/freeview/axcestv/497
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First -Penunggang Agama 2
-http://axcestv.vip:8080/live/freeview/axcestv/691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First - Siapa Tutup Lampu?
+http://axcestv.vip:8080/freeview/axcestv/498
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First - Hantu Ke Lima
+http://axcestv.vip:8080/freeview/axcestv/499
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🔴 ASTRO FIRST",Astro First -Penunggang Agama 2
+http://axcestv.vip:8080/freeview/axcestv/500
 
 
 
@@ -1949,7 +1921,7 @@ http://203.154.243.89:21201/nakhon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #http://elemento.x10.mx/stream/assp1.mpd
-http://axcestv.vip:8080/live/freeview/axcestv/787.ts 
+http://axcestv.vip:8080/freeview/axcestv/594
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -1965,7 +1937,7 @@ http://203.154.243.89:21202/nakhon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #http://elemento.x10.mx/stream/assp2.mpd
-http://axcestv.vip:8080/live/freeview/axcestv/789.ts
+http://axcestv.vip:8080/freeview/axcestv/596
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 3 
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -1981,7 +1953,7 @@ http://203.154.243.89:21203/nakhon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #http://elemento.x10.mx/stream/assp3.mpd
-http://axcestv.vip:8080/live/freeview/axcestv/790.ts
+http://axcestv.vip:8080/freeview/axcestv/598
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 4
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -1997,7 +1969,7 @@ http://203.154.243.89:21204/nakhon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 #http://elemento.x10.mx/stream/assp4.mpd
-http://axcestv.vip:8080/live/freeview/axcestv/791.ts
+http://axcestv.vip:8080/freeview/axcestv/600
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
