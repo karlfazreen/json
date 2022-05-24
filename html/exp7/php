@@ -135,10 +135,10 @@ http://axcestv.vip:8080/freeview/axcestv/453
 http://axcestv.vip:8080/freeview/axcestv/454
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/11
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1705
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1705
+http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/11
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -162,7 +162,7 @@ http://axcestv.vip:8080/freeview/axcestv/456
 http://axcestv.vip:8080/freeview/axcestv/457
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706https://link.zozotv.xyz:443/fx2/fx2/3 
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1706 
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #https://link.zozotv.xyz:443/fx2/fx2/35
@@ -172,9 +172,6 @@ http://axcestv.vip:8080/freeview/axcestv/458
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
 http://axcestv.vip:8080/freeview/axcestv/459
-
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
-http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13344
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
 http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/172
@@ -359,7 +356,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 # https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="Astro Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="🇮🇳 INDIA",Astrox Vinmeen
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71146
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71146
 #http://axcestv.vip:8080/freeview/axcestv/586
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astrox Vinmeen ⁽ᴮᵃᶜᵏᵘᵖ⁾
@@ -624,7 +621,7 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 
 #EXTINF:-1 tvg-id="333" group-title="🇮🇳 INDIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=664
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71125
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBxX1Xn/Zeecinemahd2011.png" group-title="🇮🇳 INDIA", Zee Cinema 
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
@@ -720,6 +717,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #https://linears-playback.astro.com.my/vsg/21ZM6u9xCrFvQk29_Lzjo3AgaHiwWBkdNn13rXBjtiRJE=_KtJ/dash-wv/jitp-linearwm/2400/default_ott.mpd
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1723
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
@@ -739,12 +737,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="🇲🇾 CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astrox Hua Hee Dai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2308
-http://axcestv.vip:8080/freeview/axcestv/476
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1725
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="🇲🇾 CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astrox Hua Hee Dai ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2308
-#https://ktiptv.co:443/3057/3057/25973
+http://axcestv.vip:8080/freeview/axcestv/476
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5712f6638931e8d701daf8b7b0131310&key=7b34f0cfde27af4f2da14380f05a8d1c
