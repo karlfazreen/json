@@ -132,16 +132,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 http://axcestv.vip:8080/freeview/axcestv/453
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://link.zozotv.xyz:443/Aina_90/abc1234/11
-
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/454
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://mvu03.wanicelife.com:8880/SFL143926/DNGRGT33/1705
-
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://link.zozotv.xyz:443/Aina_90/abc1234/340
+http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1705
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -159,7 +153,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 http://axcestv.vip:8080/freeview/axcestv/455
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://mvu03.wanicelife.com:8880/SFL143926/DNGRGT33/1706
+http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1706
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/456
@@ -167,29 +161,14 @@ http://axcestv.vip:8080/freeview/axcestv/456
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/457
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://link.zozotv.xyz:443/Aina_90/abc1234/35
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://link.zozotv.xyz:443/Aina_90/abc1234/3
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://link.zozotv.xyz:443/Aina_90/abc1234/272
-
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra 
-https://link.zozotv.xyz:443/Aina_90/abc1234/37
-
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
-http://axcestv.vip:8080/freeview/axcestv/458
-
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://link.zozotv.xyz:443/Aina_90/abc1234/36
+http://axcestv.vip:8080/freeview/axcestv/459
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
 http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71146
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾ 
-http://axcestv.vip:8080/freeview/axcestv/459
+http://axcestv.vip:8080/freeview/axcestv/458
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://i.ibb.co/2K2mTxK/404-300.png",Astrox BOO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -371,7 +350,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 # https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="Astro Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="🇮🇳 INDIA",Astrox Vinmeen
-http://mvu03.wanicelife.com:8880/SFL143926/DNGRGT33/71033
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71033
 #http://axcestv.vip:8080/freeview/axcestv/586
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astrox Vinmeen ⁽ᴮᵃᶜᵏᵘᵖ⁾
@@ -674,10 +653,10 @@ https://skyios.sky4k.top/DAT_002/playlist.m3u8?auth=Astra&Time=0422022
 #EXTINF:-1 tvg-id="IQIYI" ch-number="IQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🇲🇾 CHINESE",iQIYI 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="🇲🇾 CHINESE",Astrox AEC
-http://mvu03.wanicelife.com:8880/SFL143926/DNGRGT33/1723
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="🇲🇾 CHINESE",Astrox AEC
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1723
 
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="🇲🇾 CHINESE",Astrox AEC ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="🇲🇾 CHINESE",Astrox AEC ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/481
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -709,7 +688,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #https://linears-playback.astro.com.my/vsg/21ZM6u9xCrFvQk29_Lzjo3AgaHiwWBkdNn13rXBjtiRJE=_KtJ/dash-wv/jitp-linearwm/2400/default_ott.mpd
-http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1723
+#http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1723
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
@@ -926,8 +905,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="394" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OhK_v1.png" group-title="🇰🇷 KOREA",OH!K 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 
-#EXTINF:-1 tvg-id="wakuwakujapan.id" group-title="🇰🇷 KOREA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/813_1920x1080_HTV.png",WakuWaku Japan 
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/485
+
 
 
 
@@ -1291,6 +1269,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31
 
 
 
+
+
 #######################################################################################################################################################################
 
 #########################
@@ -1513,7 +1493,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png", Aniplus
-http://mvu03.wanicelife.com:8880/SFL143926/DNGRGT33/71110
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71110
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax" tvg-logo="" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",ConTV Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8
@@ -2184,7 +2164,7 @@ https://www.seulangatv.xyz/ns/sports/zsd.m3u8?token=xZxZxZx|Referer=https://play
 https://www.seulangatv.xyz/ns/sports/zr.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSwqv6QqhCbBTCELbaJcRg1Zd1FDE5ntGuRXg\u0026usqp\u003dCAU",ZIGGO VOETBALL
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSwqv6QqhCbBTCELbaJcRg1Zd1FDE5ntGuRXg\u0026usqp\u003dCAU",ZIGGO VOETBALL
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
 https://www.seulangatv.xyz/ns/sports/zv.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
