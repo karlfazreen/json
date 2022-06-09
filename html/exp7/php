@@ -667,11 +667,8 @@ https://skyios.sky4k.top/DAT_002/playlist.m3u8?auth=Astra&Time=0422022
 #EXTINF:-1 tvg-id="IQIYI" ch-number="IQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🇲🇾 CHINESE",iQIYI 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="🇲🇾 CHINESE",Astrox AEC ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="🇲🇾 CHINESE",Astrox AEC 
 http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1723
-
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="🇲🇾 CHINESE",Astrox AEC ⁽ˢᵉʳᵛᵉʳ ²⁾
-http://axcestv.vip:8080/freeview/axcestv/481
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
@@ -722,7 +719,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="🇲🇾 CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astrox Hua Hee Dai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2308
-http://mvu03.wanicelife.com:8880/SFL143926/DNGRGT33/1725
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1725
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="🇲🇾 CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astrox Hua Hee Dai ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1185,7 +1182,8 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="IN069:Star Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="🎥 MOVIES",Star Movies
-http://axcestv.vip:8080/freeview/axcestv/512
+#http://axcestv.vip:8080/freeview/axcestv/512
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1896
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
 http://axcestv.vip:8080/freeview/axcestv/513
@@ -1198,10 +1196,12 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
-http://axcestv.vip:8080/freeview/axcestv/510
+#http://axcestv.vip:8080/freeview/axcestv/510
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/55158
 
 #EXTINF:-1 tvg-id="&Prive" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
-http://axcestv.vip:8080/freeview/axcestv/511
+#http://axcestv.vip:8080/freeview/axcestv/511
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/54975
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
 #http://103.55.144.46/hls/movies-now.m3u8
