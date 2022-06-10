@@ -976,8 +976,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="🎲 ENTERTAINMENT",Just for Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="🎲 ENTERTAINMENT",Star World HD
-https://nonton.site:8443/live/1842273725/9237641816/381.m3u8
+#EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="🎲 ENTERTAINMENT",Star World 
+http://bestsave.ltd:2052/ASHRAF18/12345678/42941
 
 #EXTINF:-1 tvg-id="GlobalGotTalent.us" tvg-name="Global Got Talent" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="🎲 ENTERTAINMENT",Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
@@ -994,9 +994,8 @@ https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="🎲 ENTERTAINMENT",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
 
-#EXTINF:-1 tvg-id="zeecafe.in" tvg-name="" tvg-logo="https://i.ibb.co/g3VH3ZZ/ZeeCafe2.png" group-title="🎲 ENTERTAINMENT",Zee Cafe
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/49561
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k1vnTHG/colors-infinity-hd.png" group-title="🎲 ENTERTAINMENT",Colour Infinity
+http://bestsave.ltd:2052/ASHRAF18/12345678/42940
 
 
 
@@ -1183,10 +1182,11 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="IN069:Star Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="🎥 MOVIES",Star Movies
 #http://axcestv.vip:8080/freeview/axcestv/512
-http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1896
+#http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1896
+http://bestsave.ltd:2052/ASHRAF18/12345678/42939
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
-http://axcestv.vip:8080/freeview/axcestv/513
+http://bestsave.ltd:2052/ASHRAF18/12345678/43164
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1197,30 +1197,31 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
 #http://axcestv.vip:8080/freeview/axcestv/510
-http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/55158
+#http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/55158
+http://bestsave.ltd:2052/ASHRAF18/12345678/42946
 
 #EXTINF:-1 tvg-id="&Prive" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
 #http://axcestv.vip:8080/freeview/axcestv/511
-http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/54975
+#http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/54975
+http://bestsave.ltd:2052/ASHRAF18/12345678/42947
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
-#http://103.55.144.46/hls/movies-now.m3u8
+http://bestsave.ltd:2052/ASHRAF18/12345678/37921
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Mn+
-#http://103.55.144.46/hls/mn+.m3u8
 #http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/169118?play_token=jHmYl8WHPK
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
-http://axcestv.vip:8080/freeview/axcestv/515
+http://bestsave.ltd:2052/ASHRAF18/12345678/42949
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema
-http://axcestv.vip:8080/freeview/axcestv/507
+#http://axcestv.vip:8080/freeview/axcestv/507
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Asia
-http://axcestv.vip:8080/freeview/axcestv/508
+#http://axcestv.vip:8080/freeview/axcestv/508
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Family
-http://axcestv.vip:8080/freeview/axcestv/509
+#http://axcestv.vip:8080/freeview/axcestv/509
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1659,7 +1660,7 @@ http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QNCq51D/Logo-Disney-XD.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Disney XD
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/274520
+http://bestsave.ltd:2052/ASHRAF18/12345678/83197
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -2062,6 +2063,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 tvg-id="824" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="⚽ SPORTS",Astrox Cricket
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports PL FHD" tvg-logo="https://i.ibb.co/dgjRRjq/800px-Sky-Sport-Switzerland-svg.png" group-title="⚽ SPORTS",Sky Sports Premier league
+http://1tv1.net:8080/hamza2022/123456/55384
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/dgjRRjq/800px-Sky-Sport-Switzerland-svg.png" group-title="⚽ SPORTS",Sky Sports Formula One
+http://1tv1.net:8080/hamza2022/123456/55383
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
