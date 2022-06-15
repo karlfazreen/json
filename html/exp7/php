@@ -18,7 +18,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🌸ꗥ～ꗥ🌸 𝐜𝐥𝐨𝐮𝐝_𝟕 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🌸ꗥ～ꗥ🌸",██▓▒­░⡷⠂𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚌𝚕𝚘𝚞𝚍_𝟽 𝙲𝚑𝚊𝚗𝚗𝚎𝚕⠐⢾░▒▓██
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="💢 INFORMATION",PLEASE READ & TAKE NOTE!!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇲🇾 MALAYSIA",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇲🇾 MALAYSIA",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #EXTINF:-1 group-title="💢 INFORMATION" tvg-id="CHN" ch-number="CHN" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/shop/nov%202021/asr1305029_cassandra_acm-banner-refresh_batch-2_decktop_eng_sports-pack.jpg",Astro Big Year For Sports 2022
@@ -232,6 +235,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇮🇩 INDONESIA",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇮🇩 INDONESIA",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
 #EXTINF:-1 tvg-id="AstroAura" ch-number="AstroAura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="🇮🇩 INDONESIA",Astrox Aura  
@@ -255,6 +264,11 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/3a6ab006/f9c1.png" group-title="🇮🇩 INDONESIA", KompasTV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-ID="MetroTV.id" group-title="🇮🇩Indonesia"tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",MetroTV
+https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -362,6 +376,12 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇮🇳 INDIA",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇮🇳 INDIA",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="🇮🇳 INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",Astrox Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -618,6 +638,11 @@ http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3
 http://208.86.19.13:81/735.stream/index.m3u8
 #http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71125
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/sonysab.png" group-title="🇮🇳 INDIA",Sony Sab
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBxX1Xn/Zeecinemahd2011.png" group-title="🇮🇳 INDIA", Zee Cinema 
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
@@ -649,6 +674,14 @@ http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇲🇾 CHINESE",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇲🇾 CHINESE",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #EXTINF:-1 tvg-id="GoShop2" ch-number="303" group-title="🇲🇾 CHINESE" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",Go Shop 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -811,7 +844,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇸🇬 SINGAPORE",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇸🇬 SINGAPORE",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
@@ -862,6 +899,14 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇰🇷 KOREA",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇰🇷 KOREA",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="🇰🇷 KOREA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies (MY)   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -946,6 +991,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎲 ENTERTAINMENT",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎲 ENTERTAINMENT",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
 #EXTINF:-1 tvg-id="Lifetime"  ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="🎲 ENTERTAINMENT",Lifetime (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
@@ -1009,8 +1062,10 @@ https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="🎲 ENTERTAINMENT",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k1vnTHG/colors-infinity-hd.png" group-title="🎲 ENTERTAINMENT",Colour Infinity
-http://bestsave.ltd:2052/ASHRAF18/12345678/42940
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/sonyinfinity.png" group-title="🎲 ENTERTAINMENT",Colors Infinity
+https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
 
 
 
@@ -1022,6 +1077,14 @@ http://bestsave.ltd:2052/ASHRAF18/12345678/42940
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎥 MOVIES",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎥 MOVIES",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #EXTINF:-1 tvg-id="CCM" ch-number="321" group-title="🎥 MOVIES" tvg-logo="https://aqfadtv.astradamy.com/logos/CCMWhite.png",Celestial Classic Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1213,12 +1276,12 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
 #http://axcestv.vip:8080/freeview/axcestv/510
 #http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/55158
-http://bestsave.ltd:2052/ASHRAF18/12345678/42946
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2934
 
 #EXTINF:-1 tvg-id="&Prive" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
 #http://axcestv.vip:8080/freeview/axcestv/511
 #http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/54975
-http://bestsave.ltd:2052/ASHRAF18/12345678/42947
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2933
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
 http://bestsave.ltd:2052/ASHRAF18/12345678/37921
@@ -1247,6 +1310,15 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="🎥 MOVIES",Galaxy Premium
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 1: spotlight (1080p).png" group-title="🎥 MOVIES",Redbox 1: Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 2: comedy (1080p).png" group-title="🎥 MOVIES",Redbox 2: Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 3: rush (1080p).png" group-title="🎥 MOVIES",Redbox 3: Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="🎥 MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
@@ -1308,6 +1380,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🦧 DOCUMENTARY",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🦧 DOCUMENTARY",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #EXTINF:-1 tvg-id="FoodNetwork" group-title="🦧 DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" ch-number="708",Food Network 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1513,6 +1594,14 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
 #EXTINF:-1 tvg-id="719" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -1523,7 +1612,8 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png", Aniplus
-http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71110
+#http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71110
+http://iptv12k.com:35461/8032022060101/452381/686
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax" tvg-logo="" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",ConTV Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8
@@ -1555,7 +1645,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5065/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
 #EXTINF:-1 group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
-https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
+#https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
+
+#EXTINF:-1 group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
@@ -1688,6 +1781,17 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ##################
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🌍 NEWS",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🌍 NEWS",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
@@ -1939,7 +2043,11 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="⚽ SPORTS",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="⚽ SPORTS",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #EXTINF:-1 tvg-id="CHN" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/yq8zZwR/unnamed.png",MediaCorp MeWatch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1979,7 +2087,8 @@ http://203.154.243.89:21201/nakhon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #http://elemento.x10.mx/stream/assp1.mpd
-http://axcestv.vip:8080/freeview/axcestv/594
+#http://axcestv.vip:8080/freeview/axcestv/594
+https://lnk.ec/shareext@assp1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
@@ -2000,7 +2109,8 @@ http://203.154.243.89:21202/nakhon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #http://elemento.x10.mx/stream/assp2.mpd
-http://axcestv.vip:8080/freeview/axcestv/596
+#http://axcestv.vip:8080/freeview/axcestv/596
+https://lnk.ec/shareext@assp2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 3 ⁽ˢᵉʳᵛᵉʳ ¹⁾
@@ -2021,7 +2131,8 @@ http://203.154.243.89:21203/nakhon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #http://elemento.x10.mx/stream/assp3.mpd
-http://axcestv.vip:8080/freeview/axcestv/598
+#http://axcestv.vip:8080/freeview/axcestv/598
+https://lnk.ec/shareext@assp3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="⚽ SPORTS",Astrox SuperSport 4 ⁽ˢᵉʳᵛᵉʳ ¹⁾
@@ -2042,7 +2153,8 @@ http://203.154.243.89:21204/nakhon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 #http://elemento.x10.mx/stream/assp4.mpd
-http://axcestv.vip:8080/freeview/axcestv/600
+#http://axcestv.vip:8080/freeview/axcestv/600
+https://lnk.ec/shareext@assp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
@@ -2587,6 +2699,15 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎶 MUSIC",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎶 MUSIC",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
 #EXTINF:-1 group-title="🎶 MUSIC" tvg-id="CHN" ch-number="CHN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj",LOFI MUSIC 24/7
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/LofiRadio.m3u8
 
@@ -2681,6 +2802,16 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="📻 RADIO",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="📻 RADIO",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #EXTINF:-1 tvg-id="CHN" group-title="📻 RADIO" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
@@ -2900,6 +3031,15 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇨🇳 CHINA",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🇨🇳 CHINA",VISIT MY SHOP AT shopee.com.my/mohdfazreen86
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ShraXqWXBOc
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -3242,70 +3382,3 @@ http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
 
 
 
-##########DOUYUTV###########
-
-
-
-
-#EXTINF:-1 tvg-id=1 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【特辑】精彩大片，欢迎品鉴 
-http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.xs?uuid=
-
-#EXTINF:-1 tvg-id=6 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",✨神乐✨华语 经典 电影 沈腾 周星驰 
-http://tx2play1.douyucdn.cn/live/85894rmovieChow.xs?uuid=
-
-#EXTINF:-1 tvg-id=9 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【女神金】60帧 极致蓝光 刀刀陪看 
-http://tx2play1.douyucdn.cn/live/747764rr7m3QcnAb.xs?uuid=
-
-#EXTINF:-1 tvg-id=10 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【片片】片荒的时候看片片 
-http://tx2play1.douyucdn.cn/live/4258555r3isvDdlq.xs?uuid=
-
-#EXTINF:-1 tvg-id=12 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【RM-点播】点播！模式-24H欢乐不断 
-http://tx2play1.douyucdn.cn/live/131977rb5GOrl6uS.xs?uuid=
-
-#EXTINF:-1 tvg-id=15 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【香港赌片】喜剧、黑帮、动作、武侠、经典 
-http://tx2play1.douyucdn.cn/live/315457rGxEJOfxKX.xs?uuid=
-
-#EXTINF:-1 tvg-id=16 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",范闲4K超清、下饭神剧
-http://tx2play1.douyucdn.cn/live/9633542rbLimoelF.xs?uuid=
-
-#EXTINF:-1 tvg-id=19 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",❤️怡寳❤️  国民女友陪看 
-http://tx2play1.douyucdn.cn/live/434971r3ZA8dMt4g.xs?uuid=
-
-#EXTINF:-1 tvg-id=30 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",「橙幕」「最人气港剧直播间」 
-http://tx2play1.douyucdn.cn/live/4549169rv4OKGN7X.xs?uuid=
-
-#EXTINF:-1 tvg-id=32 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【周末】速进！新片放映中！
-http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.xs?uuid=
-
-#EXTINF:-1 tvg-id=34 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【恐怖影厅】胆小勿入 
-http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.xs?uuid=
-
-#EXTINF:-1 tvg-id=38 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【贝贝】军旅 喜剧 动作 意大利炮 
-http://tx2play1.douyucdn.cn/live/431460rLgfswXoER.xs?uuid=
-
-#EXTINF:-1 tvg-id=46 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",✨周星驰✨星爷 华语 经典 电影 神乐 
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs?uuid=
-
-#EXTINF:-1 tvg-id=59 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",✨丸子✨经典国产大片，24小时看不停
-http://tx2play1.douyucdn.cn/live/8986148ruX1Bn8o2.xs?uuid=
-
-#EXTINF:-1 tvg-id=78 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",[兔兔陪看]爱笑的撸猫主播
-http://tx2play1.douyucdn.cn/live/1504768rsnZud2Gv.xs?uuid=
-
-#EXTINF:-1 tvg-id=80 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",❤️可乐❤️电影 欧美 科幻 经典
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs?uuid=
-
-#EXTINF:-1 tvg-id=89 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【小宇60帧】科幻 动作 喜剧 电影 
-http://tx2play1.douyucdn.cn/live/323876rVG9fNP17E.xs?uuid=
-
-#EXTINF:-1 tvg-id=98 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻 
-http://tx2play1.douyucdn.cn/live/263824rY7r7Ykt7m.xs?uuid=
-
-#EXTINF:-1 tvg-id=102 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【小鸽陪看】华语热门影视剧 
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.xs?uuid=
-
-#EXTINF:-1 tvg-id=102 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",【小鸽陪看】华语热门影视剧 
-http://tx2play1.douyucdn.cn/live/3439096ry0WJOkug.xs?uuid
-
-#EXTINF:-1 tvg-id=115 tvg-name= tvg-logo= group-title="🇨🇳 CHINA",❤️冰冰❤️恐怖/经典/搞笑陪你一起
-http://tx2play1.douyucdn.cn/live/74374rxBWPJfW7Gd.xs?uuid=
