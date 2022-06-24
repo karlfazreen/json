@@ -678,8 +678,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Utsav Gold" tvg-name="Utsav Gold" tvg-logo="https://i.ibb.co/ngntF9d/Star-Gold-2011.png" group-title="🇮🇳 INDIA",Star Gold
 http://208.86.19.13:81/709.stream/index.m3u8
-#http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
-#http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Utsav Gold" tvg-name="Utsav Gold" tvg-logo="https://i.ibb.co/jkwqqzW/download.jpg" group-title="🇮🇳 INDIA",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Utsav Plus" tvg-name="Utsav Plus" tvg-logo="https://i.ibb.co/DG5Q3vk/Star-plus-2016.png" group-title="🇮🇳 INDIA",Utsav Plus
 http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
@@ -1329,16 +1330,20 @@ http://103.55.144.46/hls/movies-now.m3u8
 #http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/169118?play_token=jHmYl8WHPK
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
-http://bestsave.ltd:2052/ASHRAF18/12345678/42949
+http://103.55.144.46/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
+http://210.210.155.35/x6bnqe/h/h193/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Family
-#http://axcestv.vip:8080/freeview/axcestv/509
+http://210.210.155.35/x6bnqe/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Europe
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1359,6 +1364,9 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 3: rush (1080p).png" group-title="🎥 MOVIES",Redbox 3: Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/nQgB05m/stirr-logo-500x143-color.png" group-title="🎥 MOVIES",Stirr Movie
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="🎥 MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 
@@ -1370,7 +1378,10 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 #http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="🎥 MOVIES",Movies X
-http://http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8/livekktv/128600025/playlist.m3u8
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Yyz0xRB/download.png" group-title="🎥 MOVIES",Cloud Movie
+http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="🎥 MOVIES", Pixl TV Movie Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -1694,7 +1705,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroTutorTVSPM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" ch-number="603",Astrox Tutor TV SMK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19a1cf0746cab453b5209892ddbf0010&key=42fb52739bf87e74dbdc872c492191b5
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5065/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/5065/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
@@ -1778,6 +1789,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPfHYmZ/Happy-Kids-logo-2004.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",HappyKids
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5b65Xh/1280px-Junior-Logo-svg.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82P2sDm/channel-tg-0-3.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Toon Googles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS", Rick and Morty TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
@@ -1811,9 +1831,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/W0m2Mm9/e9f9ec56fff1032b8beb3fb84ad3e8e5.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1113
-#https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/282968
+http://208.86.19.13:81/14.stream/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Disney JR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1823,7 +1841,7 @@ http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QNCq51D/Logo-Disney-XD.png" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",Disney XD
-http://bestsave.ltd:2052/ASHRAF18/12345678/83197
+http://208.86.19.13:81/10.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
