@@ -165,7 +165,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/manifest.mpd
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://stream.zeehanzgadget.com/oasis.mpd
 
-#EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",Astrox Oasis ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="AstroOasis" ch-number="AstroOasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="🇲🇾 MALAYSIA",Astrox Oasis ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2505
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
