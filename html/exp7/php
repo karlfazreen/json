@@ -304,7 +304,7 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="SaniMpd" tvg-logo="https://www.mncchannels.com/files/logo/1579059261_logo_ie.png" group-title="🇮🇩 INDONESIA",iE
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://www.mncchannels.com/files/logo/1579059261_logo_ie.png" group-title="🇮🇩 INDONESIA",iE
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo OK TV.PNG", Ok TV
@@ -1310,7 +1310,7 @@ http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/53453
 http://103.55.144.46/hls/movies-now.m3u8
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Mn+
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/169118?play_token=jHmYl8WHPK
+http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
 http://103.55.144.46/hls/mnx-hd.m3u8
