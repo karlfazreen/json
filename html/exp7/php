@@ -9,11 +9,11 @@
 
 
 #EXTM3U
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptvthai.my.to/guide.xm" refresh="3600"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml" refresh="3600"
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🌸ꗥ～ꗥ🌸 𝐜𝐥𝐨𝐮𝐝_𝟕 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🌸ꗥ～ꗥ🌸",██▓▒­░⡷⠂𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚌𝚕𝚘𝚞𝚍_𝟽 𝙲𝚑𝚊𝚗𝚗𝚎𝚕⠐⢾░▒▓██
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="ꗥ🌸 𝐜𝐥𝐨𝐮𝐝_𝟕 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🌸ꗥ",██▓▒­░⡷⠂𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚌𝚕𝚘𝚞𝚍_𝟽 𝙲𝚑𝚊𝚗𝚗𝚎𝚕⠐⢾░▒▓██
 https://bit.ly/3mZ6wbd
 
 #EXTINF:-1 group-title="💢 INFORMATION" tvg-id="CHN" ch-number="CHN" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/shop/nov%202021/asr1305029_cassandra_acm-banner-refresh_batch-2_decktop_eng_sports-pack.jpg",Astro Big Year For Sports 2022
@@ -139,20 +139,13 @@ https://stream.zeehanzgadget.com/ria.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-# https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bh4Km8kYGpF3q5-mLufjmTM=uy0t/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://links.aqfadtv.xyz/ria.mpd
+https://tv.kpsvpn.com/kpsboyria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astrox Prima ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astrox Prima 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astrox Prima ⁽ˢᵉʳᵛᵉʳ ²⁾
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://stream.zeehanzgadget.com/prima.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
@@ -163,9 +156,9 @@ https://stream.zeehanzgadget.com/oasis.mpd
 
 #EXTINF:-1 tvg-id="AstroOasis" ch-number="AstroOasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="🇲🇾 MALAYSIA",Astrox Oasis ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2505
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-https://links.aqfadtv.xyz/oasis.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.kpsvpn.com/kpsboyoasis.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -177,8 +170,7 @@ https://stream.zeehanzgadget.com/warna.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-# https://linears-playback.astro.com.my/vsg/41iHxFdzNWPpdT5cA7TKBm9NoyTp01I3OenovXPYLibRo=4NsO/dash-wv/jitp-linearwm/2402/default_primary.mpd
-https://links.aqfadtv.xyz/warna.mpd
+https://tv.kpsvpn.com/kpsboywarna.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -190,13 +182,7 @@ https://stream.zeehanzgadget.com/citra.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-# https://linears-playback.astro.com.my/vsg/41iHxFdzNWPpdT5cA7TKBm9J1ELfM7GimuUJXreKvKD24=pQxl/dash-wv/jitp-linearwm/2700/default_primary.mpd
-https://links.aqfadtv.xyz/citra.mpd
-
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://i.ibb.co/2K2mTxK/404-300.png",Astrox BOO 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+https://tv.kpsvpn.com/kpsboycitra.mpd
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="🇲🇾 MALAYSIA" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -304,7 +290,7 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://www.mncchannels.com/files/logo/1579059261_logo_ie.png" group-title="🇮🇩 INDONESIA",iE
+#EXTINF:-1 tvg-id="ie.ID" tvg-logo="https://www.mncchannels.com/files/logo/1579059261_logo_ie.png" group-title="🇮🇩 INDONESIA",iE
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo OK TV.PNG", Ok TV
@@ -410,9 +396,8 @@ https://stream.zeehanzgadget.com/vinmeen.mpd
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astrox Vinmeen ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
-# https://linears-playback.astro.com.my/vsg/41eMhI4QyeFWjMWsv49tqwkqotPKUUB12aAl3ajwJrq6Q=f1tf/dash-wv/jitp-linearwm/2105/default_primary.mpd
-https://links.aqfadtv.xyz/vinmeen.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
+https://tv.kpsvpn.com/kpsboyvinmeen.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Thaai vaazthu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -725,9 +710,9 @@ https://stream.zeehanzgadget.com/iqiyi.mpd
 
 #EXTINF:-1 tvg-id="IQIYI" ch-number="IQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🇲🇾 CHINESE",iQIYI ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1006
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fed51001c357a9224f8221161313f010&key=7e0183501f83df2174844c03011fb491
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
-https://links.aqfadtv.xyz/iqiyi.mpd
+https://tv.kpsvpn.com/kpsboyiqiyi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
@@ -736,9 +721,8 @@ https://stream.zeehanzgadget.com/aec.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="🇲🇾 CHINESE",Astrox AEC ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
-# https://linears-playback.astro.com.my/vsg/41xB9XItVsSi_aY-Km766Bzd7H5SbMrtd96avLK7ICsRU=V2z9/dash-wv/jitp-linearwm/2400/default_primary.mpd
-https://links.aqfadtv.xyz/aec.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
+https://tv.kpsvpn.com/kpsboyaec.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
@@ -2431,21 +2415,38 @@ http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/55491
 http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/55492
 #http://93.152.174.144:4000/play/btsport3/index.m3u8
 
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety1_4-3_lrg.png",S Variety 1
+http://iptvthai.my.to/s-variety-1.m3u8
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety2_4-3_lrg.png",S Variety 2
+http://iptvthai.my.to/s-variety-2.m3u8
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety3_4-3_lrg.png",S Variety 3
+http://iptvthai.my.to/s-variety-3.m3u8
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety4_4-3_lrg.png",S Variety 4
+http://iptvthai.my.to/s-variety-4.m3u8
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/8mFkqsm/ESPN-logo.png",ESPN
+http://iptvthai.my.to/espn.m3u8
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/8mFkqsm/ESPN-logo.png",ESPN 2
+http://iptvthai.my.to/espn2.m3u8
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/8mFkqsm/ESPN-logo.png",ESPN 3
+http://iptvthai.my.to/espn3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-logo="https://static.wixstatic.com/media/0e2b3e_353a02b12dea4fdeb128d63b82f31938~mv2.png" group-title="⚽ SPORTS",Digi Sport 1
-#http://bestavb.top:8008/Daia_Florin/1Unlimited19/33798
-#http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/273534
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179647&extension=ts&play_token=xWWYLznPFN
 
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 2" tvg-logo="https://static.wixstatic.com/media/0e2b3e_f94ad20ec697442fbc4d5c4c437e61c7~mv2.png" group-title="⚽ SPORTS",Digi Sport 2
-#http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800
-#http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/81580
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179648&extension=ts&play_token=JHGdrlPpyW
 
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 3" tvg-logo="https://static.wixstatic.com/media/0e2b3e_6b6f4d2d431e4ce1881f65c308270c09~mv2.jpg" group-title="⚽ SPORTS",Digi Sport 3
-#http://bestavb.top:8008/Daia_Florin/1Unlimited19/33802
-#http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/273529
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179649&extension=ts&play_token=ml4YlX4Zsh
 
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 4" tvg-logo="https://static.wixstatic.com/media/0e2b3e_f6bb104e1b204d1e98f4814ceff31000~mv2.png" group-title="⚽ SPORTS",Digi Sport 4
-#http://bestavb.top:8008/Daia_Florin/1Unlimited19/33804
-#http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/273530
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179650&extension=ts&play_token=hWELDyzhOB
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qJx1Hbx/TNT-Sports-Logo-Vertical-2017.png" group-title="⚽ SPORTS",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -2495,16 +2496,20 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #https://www.seulangatv.xyz/ns/sports/sklub4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-ID="elevensport.ro" tvg-name="" tvg-logo="https://i.ibb.co/rypm7M5/1200px-Logo-Eleven-Sports-2020.png" group-title="⚽ SPORTS",Eleven 1
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1 
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179877&extension=ts&play_token=ao3DeyGxPs
+# http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1 
 
 #EXTINF:-1 tvg-ID="elevensport2.ro" tvg-name="" tvg-logo="https://i.ibb.co/rypm7M5/1200px-Logo-Eleven-Sports-2020.png" group-title="⚽ SPORTS",Eleven 2
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2 
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179876&extension=ts&play_token=Nuajciy92B
+# http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2 
 
 #EXTINF:-1 tvg-ID="elevensport3.ro" tvg-name="" tvg-logo="https://i.ibb.co/rypm7M5/1200px-Logo-Eleven-Sports-2020.png" group-title="⚽ SPORTS",Eleven 3
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179875&extension=ts&play_token=uXKbvck5bx
+# http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 
 #EXTINF:-1 tvg-ID="elevensport4.ro" tvg-name="" tvg-logo="https://i.imgur.com/TeqAoTS.png" group-title="⚽ SPORTS",Eleven 4
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179874&extension=ts&play_token=ygBZeUZ9oQ
+# http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 
 #EXTINF:-1 tvg-ID="elevensport5.ro" tvg-name="" tvg-logo="https://i.imgur.com/URNcmBu.png" group-title="⚽ SPORTS",Eleven 5
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
