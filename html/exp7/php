@@ -9,8 +9,7 @@
 
 
 #EXTM3U
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="3600"
-
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml" refresh="3600"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="ꗥ🌸 𝐜𝐥𝐨𝐮𝐝_𝟕 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🌸ꗥ",██▓▒­░⡷⠂𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚌𝚕𝚘𝚞𝚍_𝟽 𝙲𝚑𝚊𝚗𝚗𝚎𝚕⠐⢾░▒▓██
@@ -146,7 +145,7 @@ https://tv.kpsvpn.com/kpsboyria.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://m3u-editor.com/serve/jackstore/463614330 
+https://bit.ly/3bWkLeI
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -179,7 +178,8 @@ https://tv.kpsvpn.com/kpsboywarna.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://m3u-editor.com/serve/jackstore/463614332 
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053177
+# https://bit.ly/3OVWrs8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -198,7 +198,7 @@ https://tv.kpsvpn.com/kpsboycitra.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://m3u-editor.com/serve/jackstore/463614333
+https://bit.ly/3NMIg7i
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="🇲🇾 MALAYSIA" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -418,7 +418,7 @@ https://tv.kpsvpn.com/kpsboyvinmeen.mpd
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astrox Vinmeen ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
-https://m3u-editor.com/serve/jackstore/589344525
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Thaai vaazthu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -759,7 +759,7 @@ https://movierakyat.link/Kt2r6b.mpd
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="🇲🇾 CHINESE",Astrox AEC ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-https://m3u-editor.com/serve/jackstore/463614346
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053185
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
@@ -1327,29 +1327,33 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
-http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/53419
+https://bit.ly/3uuVHlz
 
 #EXTINF:-1 tvg-id="&Prive" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
-http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/53453
+https://bit.ly/3Rii86W
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
-http://103.55.144.46/hls/movies-now.m3u8
+https://bit.ly/3alyjQk
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Mn+
-http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
+# http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
+https://bit.ly/3NMKqUs
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
 http://103.55.144.46/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
+# http://210.210.155.37/uq2663/h/h192/index.m3u8
+https://bit.ly/3Axvir5
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Asia
-http://210.210.155.35/uq2663/h/h193/index.m3u8
-http://210.210.155.35/x6bnqe/h/h193/index.m3u8 
+# http://210.210.155.35/uq2663/h/h193/index.m3u8
+# http://210.210.155.35/x6bnqe/h/h193/index.m3u8 
+https://bit.ly/3yH1C8r
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Family
-http://210.210.155.35/x6bnqe/h/h194/index.m3u8
+# http://210.210.155.35/x6bnqe/h/h194/index.m3u8
+https://bit.ly/3AuYw9S
 
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="🎥 MOVIES", My Cinema Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
@@ -1702,7 +1706,8 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png", Aniplus
-http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
+http://axcestv.vip:8080/@harris/utEYY7kAGj/549
+# http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax" tvg-logo="" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",ConTV Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8
@@ -1869,6 +1874,51 @@ http://208.86.19.13:81/10.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="👨‍👩‍👧‍👦 FAMILY_KIDS",ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+
+
+
+
+#######################################################################################################################################################################
+
+##################
+
+
+
+
+
+#EXTINF:-1 tvg-id="35MM" tvg-name="Astro First- 35MM" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- 35MM
+https://bit.ly/3Il7vMO
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Jaga-Jaga Senariounion
+https://bit.ly/3bPHGIx
+#EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First-The Disappearance of Irdina Adhwa
+https://bit.ly/3ORrnth
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Gila Gusti
+https://bit.ly/3ORfnIh
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Autumn In Wales
+https://bit.ly/3aiose6
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Renjana
+https://bit.ly/3RfQnMw
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kabus" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Kabus
+https://bit.ly/3uu70dB
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kedai Antik Wak Jambi" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Kedai Antik Wak Jambi
+https://bit.ly/3o2D19b
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Kg Pisang Berbuah Dua Kali
+https://bit.ly/3P5uoG8
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Hantu Kuat Ketawa
+https://bit.ly/3OO3y5J
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Hantu Mok Joh
+https://bit.ly/3RirJLi
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Marabahaya Underground
+https://bit.ly/3Ax86cc
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- Serangan Pocong
+https://bit.ly/3Ax6DD4
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First - Siapa Tutup Lampu?
+https://bit.ly/3AEFAp4
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First - Hantu Ke Lima
+https://bit.ly/3Inb44U
+#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First -Penunggang Agama 2
+https://bit.ly/3utSjat
 
 
 
