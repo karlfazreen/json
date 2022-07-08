@@ -140,7 +140,7 @@ https://stream.zeehanzgadget.com/ria.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 # https://tv.kpsvpn.com/kpsboyria.mpd
-http://iptv12k.com:35461/live/80301062102/732099/735
+http://iptv12k.com:35461/live/80301062102/732099/4354
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astrox Ria ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
