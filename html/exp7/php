@@ -120,13 +120,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" radio="true" group-title="🇲🇾 MALAYSIA",Selangor TV
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
-#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="🇲🇾 MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS Sarawak
+#EXTINF:-1 tvg-id="122" ch-number="122" group-title="🇲🇾 MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS Sarawak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="104" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -134,7 +134,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 # https://stream.zeehanzgadget.com/ria.mpd
 # https://movierakyat.link/m8qjxq.mpd
 
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="104" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -142,7 +142,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 http://iptv12k.com:35461/live/80301062102/732099/4354.ts
 # http://139.99.96.163:2095/live/User38281/ANdvQ7s4qyS/5.ts
 
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ³⁾
+#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="104" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -163,7 +163,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 # https://stream.zeehanzgadget.com/oasis.mpd
 # https://tv.kpsvpn.com/kpsboyoasis.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="107" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -171,7 +171,7 @@ https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 # https://stream.zeehanzgadget.com/warna.mpd
 # https://movierakyat.link/mTqyrs.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="107" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -180,14 +180,14 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 # http://iptv12k.com:35461/live/80301062102/732099/733.ts
 # http://139.99.96.163:2095/User38281/ANdvQ7s4qyS/13
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ³⁾
+#EXTINF:-1 tvg-id="107" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="108" group-title="🇲🇾 MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -195,7 +195,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 # https://stream.zeehanzgadget.com/citra.mpd
 # https://movierakyat.link/ePggbR.mpd
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾   
+#EXTINF:-1 tvg-id="108" group-title="🇲🇾 MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -203,7 +203,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 # https://tv.kpsvpn.com/kpsboycitra.mpd
 # https://m3u-editor.com/serve/jackstore/463614333
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ³⁾   
+#EXTINF:-1 tvg-id="108" group-title="🇲🇾 MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ³⁾   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -215,12 +215,12 @@ http://iptv12k.com:35461/live/80301062102/732099/721.ts
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="🇲🇾 MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",Go Shop RUUMA
+#EXTINF:-1 tvg-id="118" ch-number="118" group-title="🇲🇾 MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",Go Shop RUUMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GoShopGAAYA" ch-number="120" group-title="🇲🇾 MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",Go Shop GAAYA
+#EXTINF:-1 tvg-id="120" ch-number="120" group-title="🇲🇾 MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",Go Shop GAAYA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
@@ -252,7 +252,7 @@ https://bit.ly/3mZ6wbd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
-#EXTINF:-1 tvg-id="AstroAura" ch-number="AstroAura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="🇮🇩 INDONESIA",Astro Aura  
+#EXTINF:-1 tvg-id="113" ch-number="AstroAura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="🇮🇩 INDONESIA",Astro Aura  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -470,16 +470,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 #EXTINF:-1 tvg-id="333" group-title="🇮🇳 INDIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/19741
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/77c35a2586cb05de8134d259139e67a1.png" group-title="🇮🇳 INDIA",COLORS Gujarati
+#EXTINF:-1 tvg-id="" tvg-name="COLORS Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/77c35a2586cb05de8134d259139e67a1.png" group-title="🇮🇳 INDIA",Colors Gujarati
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/145645
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="🇮🇳 INDIA",COLORS Kannada
+#EXTINF:-1 tvg-id="" tvg-name="COLORS Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="🇮🇳 INDIA",Colors Kannada
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/192203
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="🇮🇳 INDIA",COLORS Marathi
+#EXTINF:-1 tvg-id="" tvg-name="COLORS Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="🇮🇳 INDIA",Colors Marathi
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/82642
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS Rishtey" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="🇮🇳 INDIA",COLORS Rishtey
+#EXTINF:-1 tvg-id="" tvg-name="COLORS Rishtey" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="🇮🇳 INDIA",Colors Rishtey
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/49547
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1466,10 +1466,10 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/49557
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/45506
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/169118
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/169118
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Mn+
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/192961
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/192961
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
 http://103.55.144.46/hls/mnx-hd.m3u8
@@ -1510,13 +1510,13 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/739bdaf1d13b2c9beb5faf1ce29c5173.jpg" group-title="🎥 MOVIES",M-Net Movies 1
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/38545
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/38545
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/174502bcec0def9e77692f2fd9fcd93a.png" group-title="🎥 MOVIES",M-Net Movies 2
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/146168
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/146168
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c35ffa114923b79a40d27196b533220d.png" group-title="🎥 MOVIES",M-Net Movies 3
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/38536
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/38536
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="🎥 MOVIES",Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
@@ -2276,7 +2276,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 
 #EXTINF:-1 tvg-id="811" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astro SuperSport 1 ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://iptvthai.my.to/assp.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://etus.link/ds_assp1
 
 #EXTINF:-1 tvg-id="812" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astro SuperSport 2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2284,7 +2286,9 @@ https://iptvthai.my.to/assp.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 
 #EXTINF:-1 tvg-id="812" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astro SuperSport 2 ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://iptvthai.my.to/assp2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://etus.link/ds_assp2
 
 #EXTINF:-1 tvg-id="813" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2292,7 +2296,9 @@ https://iptvthai.my.to/assp2.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
 
 #EXTINF:-1 tvg-id="813" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3 ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://iptvthai.my.to/assp3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://etus.link/ds_assp3
 
 #EXTINF:-1 tvg-id="814" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2300,7 +2306,9 @@ https://iptvthai.my.to/assp3.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 tvg-id="814" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://iptvthai.my.to/assp4.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://etus.link/ds_assp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
@@ -2343,10 +2351,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports PL FHD" tvg-logo="https://i.ibb.co/dgjRRjq/800px-Sky-Sport-Switzerland-svg.png" group-title="⚽ SPORTS",Sky Sports Premier league
-http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/36
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/263
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/dgjRRjq/800px-Sky-Sport-Switzerland-svg.png" group-title="⚽ SPORTS",Sky Sports Formula One
-http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/26
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/265
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
@@ -2397,29 +2405,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png" group-title="⚽ SPORTS",BeIN Sports Extra
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",Bein Sports Premium 1 
-#EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#https://www.seulangatv.xyz/ns/sports/beinpremium1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/109
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS2_PREMIUM_Digital_Mono.png",Bein Sports Premium 2 
-#EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#https://www.seulangatv.xyz/ns/sports/beinpremium2.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/280145
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/bein/beIN_SPORTS3_PREMIUM_Digital_Mono.png",Bein Sports Premium 3 
-#EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#https://www.seulangatv.xyz/ns/sports/beinpremium3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/280249
 
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png", beIN Sports English 1 
-http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/79038
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/110
 
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png", beIN Sports English 2  
-http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/79039
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/111
 
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-3-1168.png", beIN Sports English 3  
-http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/79040
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/267769
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
@@ -2483,10 +2485,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 #EXTINF:-1 tvg-id="822" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="⚽ SPORTS",NBC Golf 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://highschoolfootballamerica.com/wp-content/uploads/2019/08/stadium-logo-640.jpg" group-title="⚽ SPORTS",Usee Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hY1xbYZ/usee-Sport.png" group-title="⚽ SPORTS",Usee Sport 1
 https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8|User-agent=aing=maung=Bandung109
 
-#EXTINF:-1 tvg-logo="https://highschoolfootballamerica.com/wp-content/uploads/2019/08/stadium-logo-640.jpg" group-title="⚽ SPORTS",Usee Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hY1xbYZ/usee-Sport.png" group-title="⚽ SPORTS",Usee Sport 2
 https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8|User-agent=aing=maung=Bandung109
 
 #EXTINF:-1 tvg-logo="https://highschoolfootballamerica.com/wp-content/uploads/2019/08/stadium-logo-640.jpg" group-title="⚽ SPORTS",Stadium Sports
@@ -2514,6 +2516,24 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/n38P05N/MNCSports-tegak.png",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/pLxWv8t/Champion-Brand-Logo-PNG-File.png", Champion Sports 1
+https://tvn10.xyz/Meta/master-7.m3u8|User-agent=android-12
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/pLxWv8t/Champion-Brand-Logo-PNG-File.png", Champion Sports 2
+https://tvn10.xyz/Meta/master-8.m3u8|User-agent=android-12
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/pLxWv8t/Champion-Brand-Logo-PNG-File.png", Champion Sports 3
+https://tvn10.xyz/Meta/master-9.m3u8|User-agent=android-12
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety1_4-3_lrg.png",Supersport La Liga
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/194358
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety1_4-3_lrg.png",Supersport Maximo 1
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/38572
+
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety1_4-3_lrg.png",Supersport Premier League
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/11642
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
@@ -2596,7 +2616,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="|UK| Ginx eSports TV" tvg-logo="http://vizyonbox.link:2086/images/0c2c07ddff48a1f10a24585b42523832.png" group-title="⚽ SPORTS",Ginx eSports TV
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/63775
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/15913
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2643,14 +2663,16 @@ http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xxh4qFK/640px-VTV6-logo.png" group-title="⚽ SPORTS",vtv6
 https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?token=
 
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/php5E6gAp_61533564a1d67.png" group-title="⚽ SPORTS",K+SPORT1 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b1497ec211a9400fadaeb67766ad5808&key=1943b176752449142e74044ea4654d7a 
-https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1 
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/php5E6gAp_61533564a1d67.png" group-title="⚽ SPORTS",K+ Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b1497ec211a9400fadaeb67766ad5808&key=1943b176752449142e74044ea4654d7a
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpAXdpHm_615335bd4e5b4.png" group-title="⚽ SPORTS",K+SPORT2 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d4b9e73b9702427b89d699c93015108c&key=c077a933d563687cca5f046d6a58ad12 
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpAXdpHm_615335bd4e5b4.png" group-title="⚽ SPORTS",K+ Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d4b9e73b9702427b89d699c93015108c&key=c077a933d563687cca5f046d6a58ad12
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2673,24 +2695,6 @@ http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/55491
 #https://www.seulangatv.xyz/ns/sports/bts3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/55492
 #http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety1_4-3_lrg.png",S La Liga
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/194358
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety1_4-3_lrg.png",S Maximo 1
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/38572
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="http://iptvthai.my.to/logo/SS_Logo_Variety1_4-3_lrg.png",S Premier League
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/11642
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/8mFkqsm/ESPN-logo.png",ESPN
-http://iptvthai.my.to/espn.m3u8
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/8mFkqsm/ESPN-logo.png",ESPN 2
-http://iptvthai.my.to/espn2.m3u8
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/8mFkqsm/ESPN-logo.png",ESPN 3
-http://iptvthai.my.to/espn3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-logo="https://static.wixstatic.com/media/0e2b3e_353a02b12dea4fdeb128d63b82f31938~mv2.png" group-title="⚽ SPORTS",Digi Sport 1
 http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179647&extension=ts&play_token=xWWYLznPFN
