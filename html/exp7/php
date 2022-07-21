@@ -9,7 +9,7 @@
 
 
 #EXTM3U
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://103.71.173.240/xmltv.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://103.71.173.240/xmltv.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml" refresh="3600"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="ꗥ🌸 𝐜𝐥𝐨𝐮𝐝_𝟕 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🌸ꗥ",██▓▒­░⡷⠂𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚌𝚕𝚘𝚞𝚍_𝟽 𝙲𝚑𝚊𝚗𝚗𝚎𝚕⠐⢾░▒▓██
@@ -822,6 +822,9 @@ https://bit.ly/3mZ6wbd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 # https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 
+#EXTINF:-1 group-title="🇲🇾 CHINESE" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/RTHK.png/revision/latest/scale-to-width-down/210?cb=20140629082053",RHK 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+
 #EXTINF:-1 group-title="🇲🇾 CHINESE" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/RTHK.png/revision/latest/scale-to-width-down/210?cb=20140629082053",RHK 33
 https://live.astradamy.com/hk33/index.m3u8
 
@@ -835,7 +838,11 @@ https://live.astradamy.com/viutv/index.m3u8
 #EXTINF:-1 group-title="🇲🇾 CHINESE" tvg-id="CHN" ch-number="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/200px-ViuTVsix-logo.svg.png",Viu TV 6
 https://live.astradamy.com/viutv6/index.m3u8
 
-#EXTINF:-1 group-title="🇲🇾 CHINESE" tvg-id="CHN" ch-number="CHN" tvg-logo="https://daai.tv/images/logo.png",Daai TV
+#EXTINF:-1 group-title="🇲🇾 CHINESE" tvg-id="CHN" ch-number="CHN" tvg-logo="https://daai.tv/images/logo.png",Daai TV 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 group-title="🇲🇾 CHINESE" tvg-id="CHN" ch-number="CHN" tvg-logo="https://daai.tv/images/logo.png",Daai TV 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://skyios.sky4k.top/DAT_002/playlist.m3u8?auth=Astra&Time=0422022
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1645,12 +1652,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="🦧 DOCUMENTARY", Discovery Turbo 
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1114
+#EXTINF:-1 tvg-id="DiscoveryTurboUK.uk" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="🦧 DOCUMENTARY", Discovery Turbo 
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1114
 
-#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="🦧 DOCUMENTARY",Discovery Science
-#http://live.flixhub.net/hls/dis-science.m3u8
-http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+#EXTINF:-1 tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="🦧 DOCUMENTARY",Discovery Science
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/713
 
 #EXTINF:-1 tvg-id="553" group-title="🦧 DOCUMENTARY" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png" ch-number="553",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2327,6 +2333,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 #EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="⚽ SPORTS",Astro Supersport 5 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://networkbest.ru.com/cdn/premium43/playlist.m3u8|referer=https://player.licenses4.me/
 
+#EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="⚽ SPORTS",Astro Supersport 5 ⁽ˢᵉʳᵛᵉʳ ³⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://etus.link/ds_assp5
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
 #EXTINF:-1 tvg-id="AstroSupersportPlus" tvg-name="Astro SuperSport Plus HD" group-title="⚽ SPORTS"" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/439_144.png",Astro SuperSport Plus 
@@ -2437,27 +2448,27 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/111
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" group-title="⚽ SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-3-1168.png", beIN Sports English 3  
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/267769
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 1
+#EXTINF:-1 tvg-id="TrueSportHD.th" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 2
+#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 2
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 3
+#EXTINF:-1 tvg-id="TrueSportHD3.th" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 3
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 4
+#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 4
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 5
+#EXTINF:-1 tvg-id="TrueSportHD5.th" tvg-logo="https://i.ibb.co/zhLRxzQ/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png" group-title="⚽ SPORTS",Premier Football 5
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
@@ -2701,7 +2712,7 @@ https://networkbest.ru.com/cdn/premium32/playlist.m3u8|referer=https://player.li
 https://networkbest.ru.com/cdn/premium33/playlist.m3u8|referer=https://player.licenses4.me/
 # http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/55492
 
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport 3
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-logo="https://vtlogo.com/wp-content/uploads/2020/08/bt-sport-vector-logo.png" group-title="⚽ SPORTS",BT Sport ESPN
 https://networkbest.ru.com/cdn/premium34/playlist.m3u8|referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-logo="https://static.wixstatic.com/media/0e2b3e_353a02b12dea4fdeb128d63b82f31938~mv2.png" group-title="⚽ SPORTS",Digi Sport 1
@@ -3239,12 +3250,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" group-title="🇨🇳 CHINA",Shenzhen  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",亚洲旅游台
-http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",博斯运动2
-http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
   
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8 
@@ -3262,10 +3267,7 @@ http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",MAVlife
-http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",momo综合台
-http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8 
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8  
 
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",NHK
 http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8 
@@ -3275,21 +3277,6 @@ http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",TV5monde
 http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",中天新闻 
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",东森新闻
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",东森财经新闻 
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",三立iNews
-http://seb.sason.top/sc/slinews_fhd.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="🇨🇳 CHINA",好消息
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
