@@ -9,7 +9,7 @@
 
 
 #EXTM3U
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://103.71.173.240/xmltv.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://103.71.173.240/xmltv.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml" refresh="3600"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="ꗥ🌸 𝐜𝐥𝐨𝐮𝐝_𝟕 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🌸ꗥ",██▓▒­░⡷⠂𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚌𝚕𝚘𝚞𝚍_𝟽 𝙲𝚑𝚊𝚗𝚗𝚎𝚕⠐⢾░▒▓██
@@ -170,6 +170,9 @@ https://stream.zeehanzgadget.com/warna
 # https://movierakyat.link/mTqyrs.mpd
 
 #EXTINF:-1 tvg-id="107" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ²⁾
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/157492
+
+#EXTINF:-1 tvg-id="107" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -178,7 +181,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 # http://iptv12k.com:35461/live/80301062102/732099/733.ts
 # http://139.99.96.163:2095/User38281/ANdvQ7s4qyS/13
 
-#EXTINF:-1 tvg-id="107" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ³⁾
+#EXTINF:-1 tvg-id="107" group-title="🇲🇾 MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ⁴⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -409,7 +412,6 @@ https://bit.ly/3mZ6wbd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
-# https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",Astro Vaanavil ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
@@ -471,7 +473,7 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/145645
 #EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="🇮🇳 INDIA",Colors Kannada
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/192203
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="🇮🇳 INDIA",Colors Marathi
+#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="COLORS Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="🇮🇳 INDIA",Colors Marathi
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/82642
 
 #EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-name="Colors Rishtey Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="🇮🇳 INDIA",Colors Rishtey
@@ -481,7 +483,7 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/49547
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ae3120ac55315813212677bbb2ce8b10&key=dfb51c7a6e066fe0aa1da05ab2ae1a9d
 #EXTINF:-1 tvg-id="204" ch-number="MakkalTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png" group-title="🇮🇳 INDIA",Makkal TV 
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_ott.mpd
-http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/51821
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/51821
 
 #EXTINF:-1 tvg-id="211" ch-number="211" group-title="🇮🇳 INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",Sun TV  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2284,7 +2286,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 https://etus.link/ds_assp1
 
 #EXTINF:-1 tvg-id="811" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astro SuperSport 1 ⁽ˢᵉʳᵛᵉʳ ³⁾
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/146068
+https://networkbest.ru.com/cdn/premium123/playlist.m3u8|referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-id="812" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astro SuperSport 2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2297,7 +2299,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 https://etus.link/ds_assp2
 
 #EXTINF:-1 tvg-id="812" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astro SuperSport 2 ⁽ˢᵉʳᵛᵉʳ ³⁾
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/157556
+https://networkbest.ru.com/cdn/premium124/playlist.m3u8|referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-id="813" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2310,7 +2312,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
 https://etus.link/ds_assp3
 
 #EXTINF:-1 tvg-id="813" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3 ⁽ˢᵉʳᵛᵉʳ ³⁾
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/157557
+https://networkbest.ru.com/cdn/premium125/playlist.m3u8|referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-id="814" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2323,7 +2325,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 https://etus.link/ds_assp4
 
 #EXTINF:-1 tvg-id="814" group-title="⚽ SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ⁽ˢᵉʳᵛᵉʳ ³⁾
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/157558
+https://networkbest.ru.com/cdn/premium126/playlist.m3u8|referer=https://player.licenses4.me/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
@@ -2511,10 +2513,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hY1xbYZ/usee-Sport.png" group-title="⚽ SPORTS",Usee Sport 1
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8|User-agent=aing=maung=Bandung109
+https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8|User-agent=android-12
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hY1xbYZ/usee-Sport.png" group-title="⚽ SPORTS",Usee Sport 2
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8|User-agent=aing=maung=Bandung109
+https://rebrand.ly/a5dcdb
 
 #EXTINF:-1 tvg-logo="https://highschoolfootballamerica.com/wp-content/uploads/2019/08/stadium-logo-640.jpg" group-title="⚽ SPORTS",Stadium Sports
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
