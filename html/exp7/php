@@ -9,7 +9,7 @@
 
 
 #EXTM3U
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://103.71.173.240/xmltv.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://bit.ly/virus_epg,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://103.71.173.240/xmltv.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml" refresh="3600"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="ꗥ🌸 𝐜𝐥𝐨𝐮𝐝_𝟕 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🌸ꗥ",██▓▒­░⡷⠂𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚌𝚕𝚘𝚞𝚍_𝟽 𝙲𝚑𝚊𝚗𝚗𝚎𝚕⠐⢾░▒▓██
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #https://aqfad.netlify.app/stream/TV9.m3u8
 
-#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" group-title="🇲🇾 MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",Okey
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="🇲🇾 MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",Okey
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
@@ -1107,6 +1107,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" group-title="🇰🇷 KOREA" tvg-logo="https://i.ibb.co/1M1Y4L5/resize.png",KBS World
 #https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="OppaMania" group-title="Astro" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",Oppa Mania
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
@@ -3533,11 +3538,6 @@ http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎥 MOVIES",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
-https://bit.ly/3mZ6wbd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎥 MOVIES",VISIT MY SHOP AT SHOPEE Cloud Se7en
-https://bit.ly/3mZ6wbd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/261ed359779524389a93dbdcc083cac4.png" group-title="USA ➾ Kids",Boomerang
@@ -4862,60 +4862,6 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/286252
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/2370
 #EXTINF:-1 tvg-id="" tvg-name="Vietnamese Discipleship" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/c5ec18952df72678298645bd6a6bd070.jfif" group-title="USA",Vietnamese Discipleship
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/166286
-#EXTINF:-1 tvg-id="" tvg-name="WABM TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a523ce1efad46a23256b3eb0e4a8bee6.png" group-title="USA",WABM TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295338
-#EXTINF:-1 tvg-id="" tvg-name="WACH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/6e65792dc600e7202493c084d1fd7cf8.png" group-title="USA",WACH TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295365
-#EXTINF:-1 tvg-id="" tvg-name="WAGA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1660c9d946028f23b7acb0d46b756099.png" group-title="USA",WAGA TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8433
-#EXTINF:-1 tvg-id="" tvg-name="Wake Up America" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/39d3d8abcab77accab93f2e26b380dfa.jfif" group-title="USA",Wake Up America
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/166139
-#EXTINF:-1 tvg-id="" tvg-name="WALA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ca18ef39776efb2670772e705edc404e.png" group-title="USA",WALA TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150751
-#EXTINF:-1 tvg-id="" tvg-name="WBBH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3152e81ed58a6bfc44fd6a72576bc01.png" group-title="USA",WBBH TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150873
-#EXTINF:-1 tvg-id="" tvg-name="WBFF TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e9b6667b09b09b40a9647ed5c6c103a.png" group-title="USA",WBFF TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/41027
-#EXTINF:-1 tvg-id="" tvg-name="WBFS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1372bfd23eaaa34e119ed8fd0782f809.png" group-title="USA",WBFS TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295350
-#EXTINF:-1 tvg-id="" tvg-name="WBNS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/38e0a526446e5388b7d0847a3942d1ed.png" group-title="USA",WBNS TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295379
-#EXTINF:-1 tvg-id="" tvg-name="WBPI CD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a9f5d1503bf52c0f44809b52346fe34a.jfif" group-title="USA",WBPI CD
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/166292
-#EXTINF:-1 tvg-id="" tvg-name="WBRC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b4a64d3da2b85e3ab877a5bd099cafa3.jfif" group-title="USA",WBRC TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295374
-#EXTINF:-1 tvg-id="" tvg-name="WBRZ" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/76ec4dc921087dead7f92eee5d55dd74.jpg" group-title="USA",WBRZ
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/286753
-#EXTINF:-1 tvg-id="" tvg-name="WBTS CD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/909996af165bff0981c65739f2ca0d7c.png" group-title="USA",WBTS CD
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8498
-#EXTINF:-1 tvg-id="" tvg-name="WCAU TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6be1987ea44fd8cc8b42630062bdac14.png" group-title="USA",WCAU TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/13185
-#EXTINF:-1 tvg-id="" tvg-name="WCAV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9635e595da46cc0ce9e2b602199ae9db.png" group-title="USA",WCAV TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/166277
-#EXTINF:-1 tvg-id="" tvg-name="WCBD TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a09a8cde136a6f70bb46b9b31cb34fe6.png" group-title="USA",WCBD TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150970
-#EXTINF:-1 tvg-id="" tvg-name="WCBS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/646889e83f30a3452f307cf34add9d4e.png" group-title="USA",WCBS TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/35036
-#EXTINF:-1 tvg-id="" tvg-name="WCHS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/449e96a26404c5191675ef3fe75b1b23.png" group-title="USA",WCHS TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295341
-#EXTINF:-1 tvg-id="" tvg-name="WCIV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/f8c49d9dc219c28d8edfeb2c48182963.png" group-title="USA",WCIV TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295333
-#EXTINF:-1 tvg-id="" tvg-name="WCJB" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/83b6864eb8d003114c72a33eca50c066.jfif" group-title="USA",WCJB
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295325
-#EXTINF:-1 tvg-id="" tvg-name="WCOV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/decc39bc54defecd82afdde1521b0852.jfif" group-title="USA",WCOV TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295375
-#EXTINF:-1 tvg-id="" tvg-name="WCVB TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ab3c8fe5d2c31dcb63fdcd08e269b252.png" group-title="USA",WCVB TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/48063
-#EXTINF:-1 tvg-id="" tvg-name="WDAF TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/77faa598a5977880bb890b9647a54107.png" group-title="USA",WDAF TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/198415
-#EXTINF:-1 tvg-id="" tvg-name="WDIV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/32e76b404600a06f5673d06977f969db.png" group-title="USA",WDIV TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8476
-#EXTINF:-1 tvg-id="" tvg-name="WDKA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ae04d6457152e13a3601deffd91739b3.png" group-title="USA",WDKA TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295352
-#EXTINF:-1 tvg-id="" tvg-name="WDKY TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e532f6a85da23bfca3ac0dd2decbe7b.png" group-title="USA",WDKY TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/200817
-#EXTINF:-1 tvg-id="" tvg-name="WDRB TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1399405d873db0721d98e17523f3a145.png" group-title="USA",WDRB TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150774
 #EXTINF:-1 tvg-id="" tvg-name="We TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8c8ea3f9f6d4ae957097d9c7a17027bb.png" group-title="USA",We TV
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/6347
 #EXTINF:-1 tvg-id="" tvg-name="We TV+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b5bd2c4b0e2cb08c20f69a42f2c996f3.jfif" group-title="USA",We TV+
@@ -4924,46 +4870,6 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/272299
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295329
 #EXTINF:-1 tvg-id="" tvg-name="WeatherNation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b1f7e07585c4e529a7a87f9d140f97d.png" group-title="USA",WeatherNation
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/24330
-#EXTINF:-1 tvg-id="" tvg-name="WEMT TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9c9f8cceb89f43f0ac24fbe0c2715ddd.png" group-title="USA",WEMT TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/199801
-#EXTINF:-1 tvg-id="" tvg-name="WEWS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/346aedb2444c9773b5c00d40b4c15aad.png" group-title="USA",WEWS TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/166280
-#EXTINF:-1 tvg-id="" tvg-name="WFAA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0cf69d9e63c64afd68649d31fe6f804a.png" group-title="USA",WFAA TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/227097
-#EXTINF:-1 tvg-id="" tvg-name="WFFT TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a18a1a02692f6c8a7317785a646a685d.png" group-title="USA",WFFT TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150770
-#EXTINF:-1 tvg-id="" tvg-name="WFGX TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/6eea61c7dbbccb031936d63f84c753ba.png" group-title="USA",WFGX TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295348
-#EXTINF:-1 tvg-id="" tvg-name="WFLA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65d68167b37a818820f90b4a9c7fe2bc.png" group-title="USA",WFLA TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/227092
-#EXTINF:-1 tvg-id="" tvg-name="WFLD TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/41bd5545be1c4f670732032ed8a57d97.png" group-title="USA",WFLD TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8521
-#EXTINF:-1 tvg-id="" tvg-name="WFLX TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b0bc8c61af15d247cea1814648f9ce18.png" group-title="USA",WFLX TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150752
-#EXTINF:-1 tvg-id="" tvg-name="WFOR TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/78ff236643fcb1a7d058bd162b3315dc.png" group-title="USA",WFOR TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/41017
-#EXTINF:-1 tvg-id="" tvg-name="WFOX TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/78b107567746ef9b4e88dfbffa861307.png" group-title="USA",WFOX TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8531
-#EXTINF:-1 tvg-id="" tvg-name="WFSA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/f8b15062ad83bd306d32e1cb396cfa2d.png" group-title="USA",WFSA TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295380
-#EXTINF:-1 tvg-id="" tvg-name="WFTX TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f8109bffff026d4217e4fc420e12b13c.png" group-title="USA",WFTX TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150762
-#EXTINF:-1 tvg-id="" tvg-name="WFXB TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6404024cd0acfa52ce617069eb93bbe5.png" group-title="USA",WFXB TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150808
-#EXTINF:-1 tvg-id="" tvg-name="WFXG TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2b7c29632d616156f2797d836cb52589.png" group-title="USA",WFXG TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150755
-#EXTINF:-1 tvg-id="" tvg-name="WFXL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/94bb930b9d7c341db9936442e760938a.png" group-title="USA",WFXL TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295367
-#EXTINF:-1 tvg-id="" tvg-name="WFXT TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7a9a270dc6e9694ebac825a7d2dd4e0f.png" group-title="USA",WFXT TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/41026
-#EXTINF:-1 tvg-id="" tvg-name="WGBO TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/30f94eb634e649d8be8aa3ab72b4d332.png" group-title="USA",WGBO TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/172654
-#EXTINF:-1 tvg-id="" tvg-name="WGXA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/23dd6d0b7521cc4132cc7befcc2c8ff1.png" group-title="USA",WGXA TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/200821
-#EXTINF:-1 tvg-id="" tvg-name="WHIO TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0c7a96b60b93da378f012af61e437bdb.png" group-title="USA",WHIO TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150678
-#EXTINF:-1 tvg-id="" tvg-name="WHP DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/90ca0eb7528d24a8e312a2976bcfd1d7.jfif" group-title="USA",WHP DT
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295357
 #EXTINF:-1 tvg-id="" tvg-name="Willow" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3a20afd154f94482c2f456803bed516a.png" group-title="USA",Willow
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/2372
 #EXTINF:-1 tvg-id="" tvg-name="Wired2Fish" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ceea4441b2ab784b4271dd5f95d67e18.jfif" group-title="USA",Wired2Fish
@@ -5022,84 +4928,9 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8505
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/12983
 #EXTINF:-1 tvg-id="" tvg-name="World Religions" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cf626a9d40a273dd5324bb5b95631560.jfif" group-title="USA",World Religions
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/166315
-#EXTINF:-1 tvg-id="" tvg-name="WPGH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e437418ad9b06f2c64644ad1c5611993.png" group-title="USA",WPGH TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/41038
-#EXTINF:-1 tvg-id="" tvg-name="WPIX TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/31ab8ad66af0a4e8905a2f020a4db441.png" group-title="USA",WPIX TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/147436
-#EXTINF:-1 tvg-id="" tvg-name="WPLG TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c4ee35053a3e9d4f023510d69df8dd28.png" group-title="USA",WPLG TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/166290
-#EXTINF:-1 tvg-id="" tvg-name="WPSG TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/45ad07e831b9e16434642352fc5392a2.jpg" group-title="USA",WPSG TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/2298
-#EXTINF:-1 tvg-id="" tvg-name="WPTV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2cd25165fa321904c1f89598e988f580.png" group-title="USA",WPTV TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150861
-#EXTINF:-1 tvg-id="" tvg-name="WPVI TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/296b105568d8c90cd6855aa25460e611.png" group-title="USA",WPVI TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8459
-#EXTINF:-1 tvg-id="" tvg-name="WPXI TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a3167e1c12a24380b96053d88554d4e.png" group-title="USA",WPXI TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/82289
-#EXTINF:-1 tvg-id="" tvg-name="WQHS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/db61a0b04bee7c839b26839209b21d4c.png" group-title="USA",WQHS TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295346
-#EXTINF:-1 tvg-id="" tvg-name="WQMY TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a41059ee5ea8ff91713c0cf9a55cf103.png" group-title="USA",WQMY TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295354
-#EXTINF:-1 tvg-id="" tvg-name="WRAZ TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ea53382182f7eeaf26a128d8dfc8654e.png" group-title="USA",WRAZ TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/198162
-#EXTINF:-1 tvg-id="" tvg-name="WRGT TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7e57c9a357401ecc1f50a2ffd79386b4.png" group-title="USA",WRGT TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295366
-#EXTINF:-1 tvg-id="" tvg-name="WSCV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9b000aec8d9a13e7c53b1d09504bc118.png" group-title="USA",WSCV TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/3117
-#EXTINF:-1 tvg-id="" tvg-name="WSIL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/d7e56a52fbcf5872d30b7db526c68caf.png" group-title="USA",WSIL
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295330
-#EXTINF:-1 tvg-id="" tvg-name="WSMH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9794d72c4b367317fc282769a8ac7a24.png" group-title="USA",WSMH TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295372
-#EXTINF:-1 tvg-id="" tvg-name="WSMV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/893e408be51ba71220910b2db2da6f35.png" group-title="USA",WSMV TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/41068
-#EXTINF:-1 tvg-id="" tvg-name="WSNS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/88a3089c26cfe4f203d6a3efc8ced4ef.png" group-title="USA",WSNS TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/3112
-#EXTINF:-1 tvg-id="" tvg-name="WSVN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1b884d59ec9f2b9c0a0ecdcbd812904.png" group-title="USA",WSVN TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/147562
-#EXTINF:-1 tvg-id="" tvg-name="WSYM TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ce4827a35423c80dfc575e30b330e875.png" group-title="USA",WSYM TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150778
-#EXTINF:-1 tvg-id="" tvg-name="WSYX TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8cf77af62bd911f4fe87f62cd558db5a.png" group-title="USA",WSYX TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295783
-#EXTINF:-1 tvg-id="" tvg-name="WTGS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65914d3c0cdabf8b5b9f57411c5366e5.png" group-title="USA",WTGS TV
+et/portal/picon/2021-06/65914d3c0cdabf8b5b9f57411c5366e5.png" group-title="USA",WTGS TV
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/200819
-#EXTINF:-1 tvg-id="" tvg-name="WTIC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7fb29194deed6cdf3804f0378b63dedb.png" group-title="USA",WTIC TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8529
-#EXTINF:-1 tvg-id="" tvg-name="WTNZ TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/34f57cae4976b56bfc81f84aa3a57a76.png" group-title="USA",WTNZ TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/56974
-#EXTINF:-1 tvg-id="" tvg-name="WTTE TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/45bc46e630561c16eb6a82ddebe4e497.png" group-title="USA",WTTE TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/286723
-#EXTINF:-1 tvg-id="" tvg-name="WTVC DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4f039dfa1d27714b4249b36515b24e93.jfif" group-title="USA",WTVC DT
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295371
-#EXTINF:-1 tvg-id="" tvg-name="WTVF TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e25a0ac7bb90c6696b373e18a0293c88.png" group-title="USA",WTVF TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295362
-#EXTINF:-1 tvg-id="" tvg-name="WTVJ TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/87c38ba7b26d10c334a043184e29677a.png" group-title="USA",WTVJ TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8483
-#EXTINF:-1 tvg-id="" tvg-name="WTVT TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba017dfcbeed66f387bb521c0c61d4e5.png" group-title="USA",WTVT TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/8494
-#EXTINF:-1 tvg-id="" tvg-name="WTWC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2c6189d649fe85a24ba4f6c5170e3624.png" group-title="USA",WTWC TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/150862
-#EXTINF:-1 tvg-id="" tvg-name="WTXF TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e92d5b718e67e81d3d9c4b6e940703d6.png" group-title="USA",WTXF TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/41036
-#EXTINF:-1 tvg-id="" tvg-name="WUHF TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e1d53ca56a15a3e9839da48740781f37.png" group-title="USA",WUHF TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/200815
-#EXTINF:-1 tvg-id="" tvg-name="WUPA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/de8fe0f3756c14d2ca9791e0a7c471bc.png" group-title="USA",WUPA TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/286709
-#EXTINF:-1 tvg-id="" tvg-name="WUTV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4f47d3f197538d14b69b5a79117585ce.png" group-title="USA",WUTV TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/41030
-#EXTINF:-1 tvg-id="" tvg-name="WUVP TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a612a651d0adf53c9f02d17e1e5082ab.png" group-title="USA",WUVP TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/172660
-#EXTINF:-1 tvg-id="" tvg-name="WUXP TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/366b305ef7ce1050b9f7e527a12d2924.png" group-title="USA",WUXP TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295349
-#EXTINF:-1 tvg-id="" tvg-name="WVEC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a95c9bc2daf2710efb69aa871e6ad635.png" group-title="USA",WVEC TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295323
-#EXTINF:-1 tvg-id="" tvg-name="WVUE DT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/00d53d4d530bfe512bbdcd194aad5f82.png" group-title="USA",WVUE DT
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/198182
-#EXTINF:-1 tvg-id="" tvg-name="WWJ TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b6e24492e6d341ecf3455385969fc955.jfif" group-title="USA",WWJ TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295377
-#EXTINF:-1 tvg-id="" tvg-name="WWSB TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",WWSB TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/295320
-#EXTINF:-1 tvg-id="" tvg-name="WXIN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fc5a190c37cbbbb3642189b70419d5f.png" group-title="USA",WXIN TV
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/147560
+
 
 
 
@@ -5110,11 +4941,7 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/147560
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎥 MOVIES",ANDA TELAH DI SCAM SEKIRANYA BELI BUKAN DARI CLOUD_7
-https://bit.ly/3mZ6wbd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gySDMyK/msg468161704-7457.jpg" group-title="🎥 MOVIES",VISIT MY SHOP AT SHOPEE Cloud Se7en
-https://bit.ly/3mZ6wbd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Baby First TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/22162c8cdb9ebc82680cfc9b954a3f6e.jpeg" group-title="UK ➾ Kids",Baby First TV
